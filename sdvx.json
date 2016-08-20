@@ -1,0 +1,183 @@
+{
+   "components": {
+      "U1": {
+         "footprint": "tqfp44",
+         "layer": "top",
+         "location": [0, 0],
+         "rotate": 0,
+         "show": true,
+         "silkscreen": {
+            "refdef": {
+               "location": [0, 0],
+               "show": true
+            },
+            "shapes": {
+               "show": true
+            }
+         }
+      }
+   },
+
+	"config": {
+		"name": "sdvx", 
+		"no-docs": false, 
+		"no-drill-index": false, 
+		"no-flashes": false, 
+		"no-layer-index": false, 
+		"rev": "first", 
+		"style-layout": "default", 
+		"units": "mm"
+	  }, 
+
+   "distances": {
+      "from-pour-to": {
+         "drill": 0.4, 
+         "outline": 0.4, 
+         "pad": 0.25, 
+         "route": 0.4
+      }, 
+
+      "soldermask": {
+         "circle-buffer": 0.05, 
+         "path-scale": 1.05, 
+         "rect-buffer": 0.05
+      }, 
+
+      "solderpaste": {
+         "circle-buffer": -0.1, 
+         "path-scale": 0.9, 
+         "rect-buffer": -0.1
+       }
+   }, 
+
+   "documentation": {
+
+      "board-details": {
+         "font-family": "Overlock-Regular-OTF-webfont", 
+         "font-size": "1.5mm", 
+         "letter-spacing": "0mm", 
+         "line-height": "1.5mm", 
+         "location": [35.796337, -3.4532635], 
+         "rotate": 0, 
+         "style": "fill", 
+         "type": "text", 
+         "value": "Board details:\nName: QSOP28 breakout board\nRevision: first\nDescription: \nLicense: MIT\nDesigner: Saar Drimer, Boldport, saar@boldport.com"
+       }, 
+
+       "manufacturing": {
+
+         "font-family": "Overlock-Regular-OTF-webfont", 
+         "font-size": "1.5mm", 
+         "letter-spacing": "0mm", 
+         "line-height": "1.5mm", 
+         "location": [35.780322, -15.937466], 
+         "rotate": 0, 
+         "style": "fill", 
+         "type": "text", 
+         "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top, bottom, white\nSoldermask: top, bottom, red\nSurface finish: ENIG"
+       }, 
+
+       "pcbmode": {
+         "font-family": "Overlock-Regular-OTF-webfont", 
+         "font-size": "1.2mm", 
+         "letter-spacing": "0mm", 
+         "line-height": "1.2mm", 
+         "location": [31.970331, -26.400716], 
+         "rotate": 0, 
+         "style": "fill", 
+         "type": "text", 
+         "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+       }
+
+  }, 
+
+  "drill-index": {
+    "location": [19.982022, -32.232913]
+  }, 
+
+  "drills": {}, 
+
+  "files": {
+
+    "routing-data": "sdvx_routing.json", 
+
+    "routing-svg": "sdvx.svg"
+
+  }, 
+
+  "gerber": {
+
+    "decimals": 6, 
+
+    "digits": 6, 
+
+    "min-segment-length": 0.05, 
+
+    "steps-per-segment": 100
+
+  }, 
+
+  "outline": {
+
+    "shape": {
+
+      "height": 34, 
+
+      "radii": {
+
+        "bl": 1.5, 
+
+        "br": 1.5, 
+
+        "tl": 1.5, 
+
+        "tr": 1.5
+
+      }, 
+
+      "type": "rect", 
+
+      "value": "m 34.794089,16.30384 -3.27918,-1.32732 c -6.93782,-2.2482 -18.794307,-3.60467 -31.514621,-3.6055 -12.776327,0.003 -24.671533,1.37363 -31.585736,3.63912 l -3.242799,1.30969 c -1.522191,0.43907 -3.098326,0.66306 -4.682574,0.66532 C -48.8915,16.98524 -56.496066,9.38067 -56.495969,0 c -9.5e-5,-9.38068 7.604471,-16.98525 16.985148,-16.98515 1.597431,0.004 3.186254,0.23413 4.719505,0.6824 l 3.278077,1.32678 c 6.937608,2.24812 18.793602,3.60458 31.513527,3.6055 12.775234,-0.003 24.669581,-1.3734 31.584071,-3.63858 l 3.24611,-1.31133 c 1.52168,-0.43873 3.09725,-0.66251 4.68091,-0.66477 9.38046,2.1e-4 16.98468,7.60468 16.98459,16.98515 9e-5,9.38046 -7.60413,16.98494 -16.98459,16.98515 -1.59663,-0.004 -3.1847,-0.23361 -4.71729,-0.68131", 
+
+      "width": 37
+
+    }
+
+  }, 
+
+  "shapes": {
+
+  }, 
+
+  "soldermask": {
+
+    "circle-buffer": 0.05, 
+
+    "path-scale": 1.05, 
+
+    "rect-buffer": 0.05
+
+  }, 
+
+  "solderpaste": {
+
+    "circle-buffer": -0.1, 
+
+    "path-scale": 0.9, 
+
+    "rect-buffer": -0.1
+
+  }, 
+
+  "stackup": {
+
+    "name": "two-layer"
+
+  }, 
+
+  "vias": {
+
+    "default-via": "VIA"
+
+  } 
+}
