@@ -1,0 +1,102 @@
+{
+"pins":
+  {
+  "MISO":
+    {	
+      "layout": 
+      { "pad": "pad", 
+        "location": [2.54, 2.22]
+      }
+    },
+  "Vcc":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [2.54, -2.22]
+      }
+    },
+  "SCK":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0, 2.22]
+      }
+    },
+  "MOSI":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0, -2.22]
+      }
+    },
+  "RESET":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-2.54, 2.22]
+      }
+    },
+  "GND":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-2.54, -2.22]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen": {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 4.5, 
+          "height": 4.5
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 7.2,
+          "height": 7.2
+        },
+        {
+          "type": "circle",
+          "layers": ["top"],
+          "style": "fill",
+          "diameter": 0.5,
+          "location": [-4.5, 4.5]
+        }
+
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 1.27,
+          "height": 3.68,
+          "radii": {"tl": 0.25, "tr": 0.25, "bl": 0.25, "br": 0.25}
+        }
+      ]
+    }
+  }
+}
