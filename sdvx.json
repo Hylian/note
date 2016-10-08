@@ -1,10 +1,55 @@
 {
    "components": {
+      "BT-A": {
+         "footprint": "obsc-24kk",
+         "layer": "bottom",
+         "location": [-43.5, 5]
+      },
+      "BT-B": {
+         "footprint": "obsc-24kk",
+         "layer": "bottom",
+         "location": [-14.5, 5]
+      },
+      "BT-C": {
+         "footprint": "obsc-24kk",
+         "layer": "bottom",
+         "location": [14.5, 5]
+      },
+      "BT-D": {
+         "footprint": "obsc-24kk",
+         "layer": "bottom",
+         "location": [43.5, 5]
+      },
+      "FX-L": {
+         "footprint": "obsc-24kk",
+         "layer": "bottom",
+         "location": [-29, -25]
+      },
+      "FX-R": {
+         "footprint": "obsc-24kk",
+         "layer": "bottom",
+         "location": [29, -25]
+      },
+      "Start": {
+         "footprint": "obsc-24kk",
+         "layer": "bottom",
+         "location": [0, 37]
+      },
+      "VOL-L": {
+         "footprint": "pec16",
+         "layer": "top",
+         "location": [-60, 20]
+      },
+      "VOL-R": {
+         "footprint": "pec16",
+         "layer": "top",
+         "location": [60, 20]
+      },
       "U1": {
          "footprint": "tqfp44",
-         "layer": "top",
-         "location": [0, 0],
-         "rotate": 0,
+         "layer": "bottom",
+         "location": [25, 25],
+         "rotate": -90,
          "show": true,
          "silkscreen": {
             "refdef": {
@@ -18,8 +63,8 @@
       },
       "ISP": {
          "footprint": "isp_header",
-         "layer": "top",
-         "location": [10, 0],
+         "layer": "bottom",
+         "location": [40, 38],
          "rotate": 0,
          "show": true,
          "silkscreen": {
@@ -31,6 +76,83 @@
                "show": true
             }
          }
+      },
+      "USB": {
+         "footprint": "micro-usb",
+         "layer": "bottom",
+         "rotate": 180,
+         "location": [24.5, 43.2]
+      },
+      "D+ Resistor": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [24.9, 35]
+      },
+      "D- Resistor": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+         "location": [23.3, 35]
+      },
+      "UCap": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+         "location": [27.1, 35]
+      },
+      "Crystal": {
+         "footprint": "crystal",
+         "layer": "bottom",
+         "location": [43, 24]
+      },
+      "Crystal-Cap-1": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "location": [37, 20]
+      },
+      "Crystal-Cap-2": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "location": [37, 28]
+      },
+      "Pushbutton-Cap": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "location": [42, 28]
+      },
+      "Pushbutton-Pullup": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "location": [42, 30]
+      },
+      "Pushbutton-Inline": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "location": [47, 28]
+      },
+      "Pushbutton": {
+         "footprint": "pushbutton",
+         "layer": "bottom",
+         "rotate": 90,
+         "location": [48, 35]
+      },
+      "DCap-1": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+         "location": [16, 29]
+      },
+      "DCap-2": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+         "location": [16, 21]
+      },
+      "DCap-3": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "location": [30, 16.5]
       }
    },
 
@@ -77,32 +199,7 @@
          "rotate": 0, 
          "style": "fill", 
          "type": "text", 
-         "value": "Board details:\nName: QSOP28 breakout board\nRevision: first\nDescription: \nLicense: MIT\nDesigner: Saar Drimer, Boldport, saar@boldport.com"
-       }, 
-
-       "manufacturing": {
-
-         "font-family": "Overlock-Regular-OTF-webfont", 
-         "font-size": "1.5mm", 
-         "letter-spacing": "0mm", 
-         "line-height": "1.5mm", 
-         "location": [35.780322, -15.937466], 
-         "rotate": 0, 
-         "style": "fill", 
-         "type": "text", 
-         "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top, bottom, white\nSoldermask: top, bottom, red\nSurface finish: ENIG"
-       }, 
-
-       "pcbmode": {
-         "font-family": "Overlock-Regular-OTF-webfont", 
-         "font-size": "1.2mm", 
-         "letter-spacing": "0mm", 
-         "line-height": "1.2mm", 
-         "location": [31.970331, -26.400716], 
-         "rotate": 0, 
-         "style": "fill", 
-         "type": "text", 
-         "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+         "value": "aaa"
        }
 
   }, 
@@ -137,9 +234,9 @@
 
     "shape": {
 
-      "height": 75.55, 
+      "height": 90, 
 
-      "width": 145.55,
+      "width": 150,
 
       "radii": {
 

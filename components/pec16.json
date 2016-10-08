@@ -1,0 +1,115 @@
+{
+"pins":
+  {
+  "A":
+    {	
+      "layout": 
+      {
+        "pad": "pin", 
+        "location": [-5, 0],
+        "show-label": true
+      }
+    },
+  "B":
+    {	
+      "layout": 
+      {
+        "pad": "pin", 
+        "location": [0, 0],
+        "show-label": true
+      }
+    },
+  "C":
+    {	
+      "layout": 
+      {
+        "pad": "pin", 
+        "location": [5, 0],
+        "show-label": true
+      }
+    },
+  "stabilizer-L":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [-7.4, 10.5]
+        }
+    },
+  "stabilizer-R":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [7.4, 10.5]
+        }
+    }
+  },
+  "pads":
+  {
+    "pin":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "layers": ["top", "bottom"],
+          "diameter": 1.7
+        }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 1.2,
+          "location": [0, 0]
+        }
+      ]
+    },
+    "stabilizer":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top", "bottom"],
+          "style": "fill",
+          "width": 2.6,
+          "height": 2.7,
+          "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
+        }
+      ]
+    }
+  },
+  "layout":
+  {
+    "assembly":
+    {
+      "shapes":
+        [
+          {
+            "type": "circle",
+            "layers": ["top"],
+            "diameter": 6.0,
+            "location": [0, 10.5]
+          },
+          {
+            "type": "rect",
+            "layers": ["top"],
+            "style": "stroke",
+            "width": 2,
+            "height": 2.1,
+            "location": [-7.4, 10.5]
+          },
+          {
+            "type": "rect",
+            "layers": ["top"],
+            "style": "stroke",
+            "width": 2,
+            "height": 2.1,
+            "location": [7.4, 10.5]
+          }
+        ]
+    }
+  }
+}
+

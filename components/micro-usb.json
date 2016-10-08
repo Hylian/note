@@ -1,0 +1,157 @@
+{
+"pins":
+  {
+  "5V":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [1.3, 4.45]
+      }
+    },
+  "D-":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0.65, 4.45]
+      }
+    },
+  "D+":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0, 4.45]
+      }
+    },
+  "ID":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-0.65, 4.45]
+      }
+    },
+  "GND":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-1.3, 4.45]
+      }
+    },
+  "stabilizer-bottom-left":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [-4.875, 0]
+        }
+    },
+  "stabilizer-top-left":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [-4.875, 4]
+        }
+    },
+  "stabilizer-bottom-right":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [4.875, 0]
+        }
+    },
+  "stabilizer-top-right":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [4.875, 4]
+        }
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 0.4,
+          "height": 1.4,
+          "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
+        }
+      ]
+    },
+    "stabilizer":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top", "bottom"],
+          "style": "fill",
+          "width": 1.41,
+          "height": 2.85,
+          "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
+        }
+      ]
+    }
+  },
+  "layout":
+  {
+    "assembly":
+    {
+      "shapes":
+        [
+          {
+            "type": "path",
+            "layers": ["top"],
+            "location": [0, 1.01],
+            "style": "stroke",
+            "scale": 0.28,
+            "value": "m 0,1051.8622 17.71653,0 0,-18.4252 27.99213,0 0,18.4252 17.71654,0"
+          },
+          {
+            "type": "rect",
+            "layers": ["top"],
+            "location": [-4.875, 4],
+            "style": "stroke",
+            "width": 0.8,
+            "height": 1.97
+          },
+          {
+            "type": "rect",
+            "layers": ["top"],
+            "location": [4.875, 4],
+            "style": "stroke",
+            "width": 0.8,
+            "height": 1.97
+          },
+          {
+            "type": "rect",
+            "layers": ["top"],
+            "location": [-4.875, 0],
+            "style": "stroke",
+            "width": 0.8,
+            "height": 2.37 
+          },
+          {
+            "type": "rect",
+            "layers": ["top"],
+            "location": [4.875, 0],
+            "style": "stroke",
+            "width": 0.8,
+            "height": 2.37 
+          }
+        ]
+    }
+  }
+}
+

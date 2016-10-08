@@ -6,7 +6,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [-1.143, 0]
+        "location": [-4.75, -2.25]
       }
     },
   "2":
@@ -14,8 +14,23 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [1.143, 0],
-        "rotate": 180
+        "location": [4.75, -2.25]
+      }
+    },
+  "3":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [4.75, 2.25]
+      }
+    },
+  "4":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-4.75, 2.25]
       }
     }
   },
@@ -40,8 +55,12 @@
       [
         {
           "type": "rect",
-          "width": 2.0,
-          "height": 1.25
+          "width": 6,
+          "height": 6
+        },
+        {
+          "type": "circle",
+          "diameter": 3.5
         }
       ]
     }
@@ -55,9 +74,9 @@
         {
           "type": "rect",
 	  "layers": ["top"],
-	  "width": 1.542,
-	  "height": 1.143,
-	  "radii": {"tl": 0.25, "tr": 0, "bl": 0.25, "br": 0}
+	  "width": 1.55,
+	  "height": 1.3,
+	  "radii": {"tl": 0.25, "tr": 0.25, "bl": 0.25, "br": 0.25}
 	}
       ]
     }

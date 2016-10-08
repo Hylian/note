@@ -381,18 +381,11 @@
       "shapes":
       [
         {
-          "type": "rect",
-          "layers": ["top"],
-          "width": 4.5, 
-          "height": 4.5
-        },
-        {
           "type": "circle",
           "layers": ["top"],
           "style": "fill",
           "diameter": 0.5,
-          "location": [-3.4, 3.4]
-
+          "location": [-4.0, 4.0]
         }
       ]
     },
@@ -400,19 +393,6 @@
     {
       "shapes":
       [
-        {
-          "type": "rect",
-          "layers": ["top"],
-          "width": 7.2,
-          "height": 7.2
-        },
-        {
-          "type": "circle",
-          "layers": ["top"],
-          "style": "fill",
-          "diameter": 0.5,
-          "location": [-4.5, 4.5]
-        }
 
       ]
     }

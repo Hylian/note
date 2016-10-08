@@ -6,7 +6,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [-1.143, 0]
+        "location": [-12, 0]
       }
     },
   "2":
@@ -14,8 +14,7 @@
       "layout": 
       {
         "pad": "pad", 
-        "location": [1.143, 0],
-        "rotate": 180
+        "location": [12, 0]
       }
     }
   },
@@ -24,15 +23,7 @@
     "silkscreen":
     {
       "shapes":
-      [
-        {
-          "type": "rect",
-          "width": 0.3, 
-          "height": 1,
-          "location": [0, 0],
-          "style": "fill"
-        }
-      ]
+      []
     },
     "assembly":
     {
@@ -40,8 +31,13 @@
       [
         {
           "type": "rect",
-          "width": 2.0,
-          "height": 1.25
+          "width": 28,
+          "height": 28 
+        },
+        {
+          "type": "rect",
+          "width": 20,
+          "height": 20 
         }
       ]
     }
@@ -55,9 +51,9 @@
         {
           "type": "rect",
 	  "layers": ["top"],
-	  "width": 1.542,
-	  "height": 1.143,
-	  "radii": {"tl": 0.25, "tr": 0, "bl": 0.25, "br": 0}
+	  "width": 3,
+	  "height": 9,
+	  "radii": {"tl": 0.25, "tr": 0.25, "bl": 0.25, "br": 0.25}
 	}
       ]
     }
