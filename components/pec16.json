@@ -93,6 +93,12 @@
             "location": [0, 10.5]
           },
           {
+            "type": "circle",
+            "layers": ["top"],
+            "diameter": 12.7,
+            "location": [0, 10.5]
+          },
+          {
             "type": "rect",
             "layers": ["top"],
             "style": "stroke",
