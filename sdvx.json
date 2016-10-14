@@ -5,10 +5,82 @@
          "layer": "top",
          "location": [-69.5, 15.5]
       },
+      "VOL-L A Inline": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [-74.6, 11]
+      },
+      "VOL-L A Pullup": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [-76.3, 11]
+      },
+      "VOL-L A Cap": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [-72.9, 11]
+      },
+      "VOL-L B Inline": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [-64.4, 11]
+      },
+      "VOL-L B Pullup": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [-66.1, 11]
+      },
+      "VOL-L B Cap": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [-62.7, 11]
+      },
       "VOL-R": {
          "footprint": "pec16",
          "layer": "top",
          "location": [69.5, 15.5]
+      },
+      "VOL-R A Inline": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [64.4, 11]
+      },
+      "VOL-R A Pullup": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [66.1, 11]
+      },
+      "VOL-R A Cap": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [62.7, 11]
+      },
+      "VOL-R B Inline": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [74.6, 11]
+      },
+      "VOL-R B Pullup": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [76.3, 11]
+      },
+      "VOL-R B Cap": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "rotate": 90,
+        "location": [72.9, 11]
       },
       "BT-A": {
          "footprint": "obsc-24kk",
@@ -48,7 +120,7 @@
       "U1": {
          "footprint": "tqfp44",
          "layer": "bottom",
-         "location": [25, 25],
+         "location": [25, 26],
          "rotate": -90,
          "show": true,
          "silkscreen": {
@@ -87,19 +159,19 @@
          "footprint": "0805",
          "layer": "bottom",
          "rotate": 90,
-        "location": [23.9, 35]
+        "location": [23.9, 36]
       },
       "D- Resistor": {
          "footprint": "0805",
          "layer": "bottom",
          "rotate": 90,
-         "location": [22.3, 35]
+         "location": [22.3, 36]
       },
       "UCap": {
          "footprint": "0805",
          "layer": "bottom",
          "rotate": 90,
-         "location": [26.1, 35]
+         "location": [26.1, 36]
       },
       "Crystal": {
          "footprint": "crystal",
@@ -141,18 +213,23 @@
          "footprint": "0805",
          "layer": "bottom",
          "rotate": 90,
-         "location": [16, 29]
+         "location": [16, 30]
       },
       "DCap-2": {
          "footprint": "0805",
          "layer": "bottom",
          "rotate": 90,
-         "location": [16, 22]
+         "location": [16, 23]
       },
       "DCap-3": {
          "footprint": "0805",
          "layer": "bottom",
-         "location": [30, 16.5]
+         "location": [29, 17.5]
+      },
+      "DCap-4": {
+         "footprint": "0805",
+         "layer": "bottom",
+         "location": [37, 30]
       }
    },
 
