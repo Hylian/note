@@ -269,20 +269,20 @@
 
       "board-details": {
          "font-family": "Overlock-Regular-OTF-webfont", 
-         "font-size": "1.5mm", 
+         "font-size": "3mm", 
          "letter-spacing": "0mm", 
-         "line-height": "1.5mm", 
-         "location": [35.796337, -3.4532635], 
+         "line-height": "3.3mm", 
+         "location": [91, -35], 
          "rotate": 0, 
          "style": "fill", 
          "type": "text", 
-         "value": "aaa"
+         "value": "SDVX Controller\nEdward Shin"
        }
 
   }, 
 
   "drill-index": {
-    "location": [19.982022, -32.232913]
+    "location": [81, -41]
   }, 
 
   "drills": {}, 
