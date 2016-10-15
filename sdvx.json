@@ -1,371 +1,534 @@
 {
-   "components": {
-      "VOL-L": {
-         "footprint": "pec16",
-         "layer": "top",
-         "location": [-69.5, 15.5]
-      },
-      "VOL-L A Inline": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [-74.6, 11]
-      },
-      "VOL-L A Pullup": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [-76.3, 11]
-      },
-      "VOL-L A Cap": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [-72.9, 11]
-      },
-      "VOL-L B Inline": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [-64.4, 11]
-      },
-      "VOL-L B Pullup": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [-66.1, 11]
-      },
-      "VOL-L B Cap": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [-62.7, 11]
-      },
-      "VOL-R": {
-         "footprint": "pec16",
-         "layer": "top",
-         "location": [69.5, 15.5]
-      },
-      "VOL-R A Inline": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [64.4, 11]
-      },
-      "VOL-R A Pullup": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [66.1, 11]
-      },
-      "VOL-R A Cap": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [62.7, 11]
-      },
-      "VOL-R B Inline": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [74.6, 11]
-      },
-      "VOL-R B Pullup": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [76.3, 11]
-      },
-      "VOL-R B Cap": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [72.9, 11]
-      },
-      "BT-A": {
-         "footprint": "obsc-24kk",
-         "layer": "bottom",
-         "location": [-43.5, 0]
-      },
-      "BT-B": {
-         "footprint": "obsc-24kk",
-         "layer": "bottom",
-         "location": [-14.5, 0]
-      },
-      "BT-C": {
-         "footprint": "obsc-24kk",
-         "layer": "bottom",
-         "location": [14.5, 0]
-      },
-      "BT-D": {
-         "footprint": "obsc-24kk",
-         "layer": "bottom",
-         "location": [43.5, 0]
-      },
-      "FX-L": {
-         "footprint": "obsc-24kk",
-         "layer": "bottom",
-         "location": [-29, -30]
-      },
-      "FX-R": {
-         "footprint": "obsc-24kk",
-         "layer": "bottom",
-         "location": [29, -30]
-      },
-      "Start": {
-         "footprint": "obsc-24kk",
-         "layer": "bottom",
-         "location": [0, 30]
-      },
-      "U1": {
-         "footprint": "tqfp44",
-         "layer": "bottom",
-         "location": [25, 26],
-         "rotate": -90,
-         "show": true,
-         "silkscreen": {
-            "refdef": {
-               "location": [0, 0],
-               "show": true
-            },
-            "shapes": {
-               "show": true
-            }
-         }
-      },
-      "ISP": {
-         "footprint": "isp_header",
-         "layer": "bottom",
-         "location": [37, 38],
-         "rotate": 0,
-         "show": true,
-         "silkscreen": {
-            "refdef": {
-               "location": [0, 0],
-               "show": true
-            },
-            "shapes": {
-               "show": true
-            }
-         }
-      },
-      "USB": {
-         "footprint": "micro-usb",
-         "layer": "bottom",
-         "rotate": 180,
-         "location": [24.5, 44.3]
-      },
-      "D+ Resistor": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-        "location": [23.9, 36]
-      },
-      "D- Resistor": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-         "location": [22.3, 36]
-      },
-      "UCap": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-         "location": [26.1, 36]
-      },
-      "Crystal": {
-         "footprint": "crystal",
-         "layer": "bottom",
-         "location": [43, 24]
-      },
-      "Crystal-Cap-1": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "location": [37, 20]
-      },
-      "Crystal-Cap-2": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "location": [37, 28]
-      },
-      "Pushbutton-Cap": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "location": [42, 28]
-      },
-      "Pushbutton-Pullup": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "location": [42, 30]
-      },
-      "Pushbutton-Inline": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "location": [47, 28]
-      },
-      "Pushbutton": {
-         "footprint": "pushbutton",
-         "layer": "bottom",
-         "rotate": 90,
-         "location": [48, 35]
-      },
-      "DCap-1": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-         "location": [16, 30]
-      },
-      "DCap-2": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "rotate": 90,
-         "location": [16, 23]
-      },
-      "DCap-3": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "location": [29, 17.5]
-      },
-      "DCap-4": {
-         "footprint": "0805",
-         "layer": "bottom",
-         "location": [37, 30]
+  "components": {
+    "BT-A": {
+      "footprint": "obsc-24kk", 
+      "layer": "bottom", 
+      "location": [
+        -43.5, 
+        0
+      ]
+    }, 
+    "BT-B": {
+      "footprint": "obsc-24kk", 
+      "layer": "bottom", 
+      "location": [
+        -14.5, 
+        0
+      ]
+    }, 
+    "BT-C": {
+      "footprint": "obsc-24kk", 
+      "layer": "bottom", 
+      "location": [
+        14.5, 
+        0
+      ]
+    }, 
+    "BT-D": {
+      "footprint": "obsc-24kk", 
+      "layer": "bottom", 
+      "location": [
+        43.5, 
+        0
+      ]
+    }, 
+    "Crystal": {
+      "footprint": "crystal", 
+      "layer": "bottom", 
+      "location": [
+        43, 
+        24
+      ]
+    }, 
+    "Crystal-Cap-1": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        37, 
+        20
+      ]
+    }, 
+    "Crystal-Cap-2": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        37, 
+        28
+      ]
+    }, 
+    "D+ Resistor": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        23.9, 
+        36
+      ], 
+      "rotate": 90
+    }, 
+    "D- Resistor": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        22.3, 
+        36
+      ], 
+      "rotate": 90
+    }, 
+    "DCap-1": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        16, 
+        30
+      ], 
+      "rotate": 90
+    }, 
+    "DCap-2": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        16, 
+        23
+      ], 
+      "rotate": 90
+    }, 
+    "DCap-3": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        29, 
+        16.5
+      ]
+    }, 
+    "DCap-4": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        37, 
+        30
+      ]
+    }, 
+    "FX-L": {
+      "footprint": "obsc-24kk", 
+      "layer": "bottom", 
+      "location": [
+        -29, 
+        -30
+      ]
+    }, 
+    "FX-R": {
+      "footprint": "obsc-24kk", 
+      "layer": "bottom", 
+      "location": [
+        29, 
+        -30
+      ]
+    }, 
+    "ISP": {
+      "footprint": "isp_header", 
+      "layer": "bottom", 
+      "location": [
+        37, 
+        38
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
       }
-   },
-
-	"config": {
-		"name": "sdvx", 
-		"no-docs": false, 
-		"no-drill-index": false, 
-		"no-flashes": false, 
-		"no-layer-index": false, 
-		"rev": "first", 
-		"style-layout": "default", 
-		"units": "mm"
-	  }, 
-
-   "distances": {
-      "from-pour-to": {
-         "drill": 0.4, 
-         "outline": 0.4, 
-         "pad": 0.25, 
-         "route": 0.4
-      }, 
-
-      "soldermask": {
-         "circle-buffer": 0.05, 
-         "path-scale": 1.05, 
-         "rect-buffer": 0.05
-      }, 
-
-      "solderpaste": {
-         "circle-buffer": -0.1, 
-         "path-scale": 0.9, 
-         "rect-buffer": -0.1
-       }
-   }, 
-
-   "documentation": {
-
-      "board-details": {
-         "font-family": "Overlock-Regular-OTF-webfont", 
-         "font-size": "3mm", 
-         "letter-spacing": "0mm", 
-         "line-height": "3.3mm", 
-         "location": [91, -35], 
-         "rotate": 0, 
-         "style": "fill", 
-         "type": "text", 
-         "value": "SDVX Controller\nEdward Shin"
-       }
-
-  }, 
-
-  "drill-index": {
-    "location": [81, -41]
-  }, 
-
-  "drills": {}, 
-
-  "files": {
-
-    "routing-data": "sdvx_routing.json", 
-
-    "routing-svg": "sdvx.svg"
-
-  }, 
-
-  "gerber": {
-
-    "decimals": 6, 
-
-    "digits": 6, 
-
-    "min-segment-length": 0.05, 
-
-    "steps-per-segment": 100
-
-  }, 
-
-  "outline": {
-
-    "shape": {
-
-      "height": 92, 
-
-      "width": 160,
-
-      "radii": {
-
-        "bl": 1.5, 
-
-        "br": 1.5, 
-
-        "tl": 1.5, 
-
-        "tr": 1.5
-
-      }, 
-
-      "type": "rect"
-
+    }, 
+    "Pushbutton": {
+      "footprint": "pushbutton", 
+      "layer": "bottom", 
+      "location": [
+        48, 
+        35
+      ], 
+      "rotate": 90
+    }, 
+    "Pushbutton-Cap": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        42, 
+        28
+      ]
+    }, 
+    "Pushbutton-Inline": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        47, 
+        28
+      ]
+    }, 
+    "Pushbutton-Pullup": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        42, 
+        30
+      ]
+    }, 
+    "Start": {
+      "footprint": "obsc-24kk", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        30
+      ]
+    }, 
+    "U1": {
+      "footprint": "tqfp44", 
+      "layer": "bottom", 
+      "location": [
+        25, 
+        26
+      ], 
+      "rotate": -90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": true
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "UCap": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        26.1, 
+        36
+      ], 
+      "rotate": 90
+    }, 
+    "USB": {
+      "footprint": "micro-usb", 
+      "layer": "bottom", 
+      "location": [
+        24.5, 
+        44.3
+      ], 
+      "rotate": 180
+    }, 
+    "VOL-L": {
+      "footprint": "pec16", 
+      "layer": "top", 
+      "location": [
+        -69.5, 
+        15.5
+      ]
+    }, 
+    "VOL-L A Cap": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -72.9, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-L A Inline": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -74.6, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-L A Pullup": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -76.3, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-L B Cap": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -62.7, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-L B Inline": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -64.4, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-L B Pullup": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -66.1, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-R": {
+      "footprint": "pec16", 
+      "layer": "top", 
+      "location": [
+        69.5, 
+        15.5
+      ]
+    }, 
+    "VOL-R A Cap": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        62.7, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-R A Inline": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        64.4, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-R A Pullup": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        66.1, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-R B Cap": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        72.9, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-R B Inline": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        74.6, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "VOL-R B Pullup": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        76.3, 
+        11
+      ], 
+      "rotate": 90
+    }, 
+    "Via 1": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        22, 
+        27
+      ]
+    }, 
+    "Via 10": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        -58, 
+        14
+      ]
+    }, 
+    "Via 11": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        -55, 
+        8
+      ]
+    }, 
+    "Via 2": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        29, 
+        27
+      ]
+    }, 
+    "Via 3": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        27.25, 
+        39
+      ]
+    }, 
+    "Via 4": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        41.5, 
+        35
+      ]
+    }, 
+    "Via 5": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        28.5, 
+        29.7
+      ]
+    }, 
+    "Via 6": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        62, 
+        19
+      ]
+    }, 
+    "Via 7": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        33, 
+        31
+      ]
+    }, 
+    "Via 8": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        33, 
+        33
+      ]
+    }, 
+    "Via 9": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        63, 
+        8
+      ]
     }
-
   }, 
-
-  "shapes": {
-
+  "config": {
+    "name": "sdvx", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "first", 
+    "style-layout": "default", 
+    "units": "mm"
   }, 
-
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.4, 
+      "outline": 0.4, 
+      "pad": 0.25, 
+      "route": 0.4
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.05, 
+      "path-scale": 1.05, 
+      "rect-buffer": 0.05
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "3mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "3.3mm", 
+      "location": [
+        91, 
+        -35
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "SDVX Controller\nEdward Shin"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      81.0, 
+      -41.0
+    ]
+  }, 
+  "drills": {}, 
+  "files": {
+    "routing-data": "sdvx_routing.json", 
+    "routing-svg": "sdvx.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "outline": {
+    "shape": {
+      "height": 92, 
+      "radii": {
+        "bl": 1.5, 
+        "br": 1.5, 
+        "tl": 1.5, 
+        "tr": 1.5
+      }, 
+      "type": "rect", 
+      "width": 160
+    }
+  }, 
+  "shapes": {}, 
   "soldermask": {
-
     "circle-buffer": 0.05, 
-
     "path-scale": 1.05, 
-
     "rect-buffer": 0.05
-
   }, 
-
   "solderpaste": {
-
     "circle-buffer": -0.1, 
-
     "path-scale": 0.9, 
-
     "rect-buffer": -0.1
-
   }, 
-
   "stackup": {
-
     "name": "two-layer"
-
   }, 
-
   "vias": {
-
     "default-via": "VIA"
-
-  } 
+  }
 }
