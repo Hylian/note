@@ -266,7 +266,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -62.7, 
+        -66.1, 
         11
       ], 
       "rotate": 90
@@ -284,7 +284,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -66.1, 
+        -62.7, 
         11
       ], 
       "rotate": 90
@@ -301,7 +301,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        62.7, 
+        66.1, 
         11
       ], 
       "rotate": 90
@@ -319,7 +319,7 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        66.1, 
+        62.7, 
         11
       ], 
       "rotate": 90
