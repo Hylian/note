@@ -180,7 +180,7 @@
       ]
     }, 
     "Start": {
-      "footprint": "obsc-24kk", 
+      "footprint": "obsc-24", 
       "layer": "bottom", 
       "location": [
         0, 
