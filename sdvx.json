@@ -371,7 +371,7 @@
       "footprint": "via", 
       "layer": "top", 
       "location": [
-        -55, 
+        -57, 
         8
       ]
     }, 
@@ -379,7 +379,7 @@
       "footprint": "via", 
       "layer": "top", 
       "location": [
-        29, 
+        29.2, 
         27
       ]
     }, 
@@ -403,8 +403,8 @@
       "footprint": "via", 
       "layer": "top", 
       "location": [
-        28.5, 
-        29.7
+        28.630847, 
+        29.525537
       ]
     }, 
     "Via 6": {

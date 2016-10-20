@@ -28,6 +28,24 @@
         "show-label": true
       }
     },
+  "SW-L":
+    {	
+      "layout": 
+      {
+        "pad": "pin", 
+        "location": [-2.5, 17.5],
+        "show-label": true
+      }
+    },
+  "SW-R":
+    {	
+      "layout": 
+      {
+        "pad": "pin", 
+        "location": [2.5, 17.5],
+        "show-label": true
+      }
+    },
   "stabilizer-L":
     {
       "layout":
