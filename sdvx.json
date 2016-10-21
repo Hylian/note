@@ -108,6 +108,15 @@
         30
       ]
     }, 
+    "DCap-USB": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        19.6, 
+        36
+      ], 
+      "rotate": 90
+    }, 
     "FX-L": {
       "footprint": "obsc-24kk", 
       "layer": "bottom", 
@@ -388,7 +397,7 @@
       "layer": "top", 
       "location": [
         27.25, 
-        39
+        39.7
       ]
     }, 
     "Via 4": {
@@ -437,6 +446,14 @@
       "location": [
         63, 
         8
+      ]
+    },
+    "Neopixel": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        -43.5, 
+        10
       ]
     }
   }, 
