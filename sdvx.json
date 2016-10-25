@@ -155,6 +155,204 @@
         }
       }
     }, 
+    "LED-A-Bottom": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        -43.5, 
+        -11.3
+      ], 
+      "rotate": 180
+    }, 
+    "LED-A-Bottom-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -43.5, 
+        -15
+      ]
+    }, 
+    "LED-A-Top": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        -43.5, 
+        11.3
+      ]
+    }, 
+    "LED-A-Top-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -43.5, 
+        15
+      ]
+    }, 
+    "LED-B-Bottom": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        -14.5, 
+        -11.3
+      ], 
+      "rotate": 180
+    }, 
+    "LED-B-Bottom-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -14.5, 
+        -15
+      ]
+    }, 
+    "LED-B-Top": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        -14.5, 
+        11.3
+      ]
+    }, 
+    "LED-B-Top-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -14.5, 
+        15
+      ]
+    }, 
+    "LED-C-Bottom": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        14.5, 
+        -11.3
+      ], 
+      "rotate": 180
+    }, 
+    "LED-C-Bottom-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        14.5, 
+        -15
+      ]
+    }, 
+    "LED-C-Top": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        14.5, 
+        11.3
+      ]
+    }, 
+    "LED-C-Top-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        14.5, 
+        15
+      ]
+    }, 
+    "LED-D-Bottom": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        43.5, 
+        -11.3
+      ], 
+      "rotate": 180
+    }, 
+    "LED-D-Bottom-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        43.5, 
+        -15
+      ]
+    }, 
+    "LED-D-Top": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        43.5, 
+        11.3
+      ]
+    }, 
+    "LED-D-Top-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        43.5, 
+        15
+      ]
+    }, 
+    "LED-L-Bottom": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        -29, 
+        -41.3
+      ], 
+      "rotate": 180
+    }, 
+    "LED-L-Bottom-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -29, 
+        -45
+      ]
+    }, 
+    "LED-L-Top": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        -29, 
+        -18.7
+      ]
+    }, 
+    "LED-L-Top-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -29, 
+        -15
+      ]
+    }, 
+    "LED-R-Bottom": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        29, 
+        -41.3
+      ], 
+      "rotate": 180
+    }, 
+    "LED-R-Bottom-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        29, 
+        -45
+      ]
+    }, 
+    "LED-R-Top": {
+      "footprint": "neopixel", 
+      "layer": "top", 
+      "location": [
+        29, 
+        -18.7
+      ]
+    }, 
+    "LED-R-Top-DCap": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        29, 
+        -15
+      ]
+    }, 
     "Pushbutton": {
       "footprint": "pushbutton", 
       "layer": "bottom", 
@@ -228,11 +426,11 @@
       "rotate": 90
     }, 
     "USB": {
-      "footprint": "micro-usb", 
+      "footprint": "mini-usb", 
       "layer": "bottom", 
       "location": [
-        24.5, 
-        44.3
+        23, 
+        42
       ], 
       "rotate": 180
     }, 
@@ -380,8 +578,32 @@
       "footprint": "via", 
       "layer": "top", 
       "location": [
-        -57, 
-        8
+        -59, 
+        6
+      ]
+    }, 
+    "Via 12": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        18.25, 
+        33
+      ]
+    }, 
+    "Via 13": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        31, 
+        21
+      ]
+    }, 
+    "Via 14": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        18, 
+        37.5
       ]
     }, 
     "Via 2": {
@@ -396,8 +618,8 @@
       "footprint": "via", 
       "layer": "top", 
       "location": [
-        27.25, 
-        39.7
+        28, 
+        37.5
       ]
     }, 
     "Via 4": {
@@ -446,14 +668,6 @@
       "location": [
         63, 
         8
-      ]
-    },
-    "Neopixel": {
-      "footprint": "neopixel", 
-      "layer": "top", 
-      "location": [
-        -43.5, 
-        10
       ]
     }
   }, 
@@ -520,7 +734,7 @@
   }, 
   "outline": {
     "shape": {
-      "height": 92, 
+      "height": 97, 
       "radii": {
         "bl": 1.5, 
         "br": 1.5, 

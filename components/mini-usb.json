@@ -1,0 +1,150 @@
+{
+"pins":
+  {
+  "5V":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-1.6, 2.25]
+      }
+    },
+  "D-":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [-0.8, 2.25]
+      }
+    },
+  "D+":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0, 2.25]
+      }
+    },
+  "ID":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0.8, 2.25]
+      }
+    },
+  "GND":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [1.6, 2.25]
+      }
+    },
+  "stabilizer-bottom-left":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [-4.2, -3.3]
+        }
+    },
+  "stabilizer-top-left":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [-4.2, 2]
+        }
+    },
+  "stabilizer-bottom-right":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [4.2, -3.3]
+        }
+    },
+  "stabilizer-top-right":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [4.2, 2]
+        }
+    },
+  "post-left":
+    {
+      "layout":
+        {
+          "pad": "post",
+          "location": [-1.75, 0]
+        }
+    },
+  "post-right":
+    {
+      "layout":
+        {
+          "pad": "post",
+          "location": [1.75, 0]
+        }
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 0.5,
+          "height": 2,
+          "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
+        }
+      ]
+    },
+    "stabilizer":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "style": "fill",
+          "width": 2.5,
+          "height": 2.2,
+          "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
+        }
+      ]
+    },
+    "post":
+    {
+      "drills":
+      [
+        {
+          "diameter": 0.9
+        }
+      ]
+    }
+  },
+  "layout":
+  {
+    "assembly":
+    {
+      "shapes":
+        [
+          {
+            "type": "rect",
+            "layers": ["top"],
+            "location": [0, -3.2],
+            "style": "stroke",
+            "width": 7.7,
+            "height": 6.4
+          }
+        ]
+    }
+  }
+}
+

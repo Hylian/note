@@ -38,6 +38,11 @@
           "type": "rect",
           "width": 20,
           "height": 20 
+        },
+        {
+          "type": "rect",
+          "width": 20,
+          "height": 15 
         }
       ]
     }
