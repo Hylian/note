@@ -435,19 +435,19 @@
       "rotate": 180
     }, 
     "VOL-L": {
-      "footprint": "pec16", 
+      "footprint": "pec12r", 
       "layer": "top", 
       "location": [
         -69.5, 
-        15.5
+        18.5
       ]
     }, 
     "VOL-L A Cap": {
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -72.9, 
-        11
+        -70.33, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -455,8 +455,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -74.6, 
-        11
+        -72, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -464,8 +464,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -76.3, 
-        11
+        -73.67, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -473,8 +473,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -66.1, 
-        11
+        -68.67, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -482,8 +482,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -64.4, 
-        11
+        -67, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -491,25 +491,25 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        -62.7, 
-        11
+        -65.33, 
+        14
       ], 
       "rotate": 90
     }, 
     "VOL-R": {
-      "footprint": "pec16", 
+      "footprint": "pec12r", 
       "layer": "top", 
       "location": [
         69.5, 
-        15.5
+        18.5
       ]
     }, 
     "VOL-R A Cap": {
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        66.1, 
-        11
+        68.67, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -517,8 +517,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        64.4, 
-        11
+        67, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -526,8 +526,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        62.7, 
-        11
+        65.33, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -535,8 +535,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        72.9, 
-        11
+        70.33, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -544,8 +544,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        74.6, 
-        11
+        72, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -553,8 +553,8 @@
       "footprint": "0805", 
       "layer": "bottom", 
       "location": [
-        76.3, 
-        11
+        73.67, 
+        14
       ], 
       "rotate": 90
     }, 
@@ -604,6 +604,14 @@
       "location": [
         18, 
         37.5
+      ]
+    }, 
+    "Via 15": {
+      "footprint": "via", 
+      "layer": "top", 
+      "location": [
+        69.5, 
+        9
       ]
     }, 
     "Via 2": {
@@ -666,8 +674,8 @@
       "footprint": "via", 
       "layer": "top", 
       "location": [
-        63, 
-        8
+        62.089522, 
+        14.438382
       ]
     }
   }, 

@@ -1,0 +1,139 @@
+{
+"pins":
+  {
+  "A":
+    {	
+      "layout": 
+      {
+        "pad": "pin", 
+        "location": [-2.5, 0],
+        "show-label": true
+      }
+    },
+  "B":
+    {	
+      "layout": 
+      {
+        "pad": "pin", 
+        "location": [0, 0],
+        "show-label": true
+      }
+    },
+  "C":
+    {	
+      "layout": 
+      {
+        "pad": "pin", 
+        "location": [2.5, 0],
+        "show-label": true
+      }
+    },
+  "SW-L":
+    {	
+      "layout": 
+      {
+        "pad": "pin", 
+        "location": [-2.5, 14.5],
+        "show-label": true
+      }
+    },
+  "SW-R":
+    {	
+      "layout": 
+      {
+        "pad": "pin", 
+        "location": [2.5, 14.5],
+        "show-label": true
+      }
+    },
+  "stabilizer-L":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [-5.6, 7.5]
+        }
+    },
+  "stabilizer-R":
+    {
+      "layout":
+        {
+          "pad": "stabilizer",
+          "location": [5.6, 7.5]
+        }
+    }
+  },
+  "pads":
+  {
+    "pin":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "layers": ["top", "bottom"],
+          "diameter": 1.7
+        }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 1.2,
+          "location": [0, 0]
+        }
+      ]
+    },
+    "stabilizer":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top", "bottom"],
+          "style": "fill",
+          "width": 2.4,
+          "height": 3,
+          "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
+        }
+      ]
+    }
+  },
+  "layout":
+  {
+    "assembly":
+    {
+      "shapes":
+        [
+          {
+            "type": "circle",
+            "layers": ["top"],
+            "diameter": 6.0,
+            "location": [0, 7.5]
+          },
+          {
+            "type": "circle",
+            "layers": ["top"],
+            "diameter": 12.7,
+            "location": [0, 7.5]
+          },
+          {
+            "type": "rect",
+            "layers": ["top"],
+            "style": "stroke",
+            "width": 2,
+            "height": 2.6,
+            "location": [-5.6, 7.5]
+          },
+          {
+            "type": "rect",
+            "layers": ["top"],
+            "style": "stroke",
+            "width": 2,
+            "height": 2.6,
+            "location": [5.6, 7.5]
+          }
+        ]
+    }
+  }
+}
+
