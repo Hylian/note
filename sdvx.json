@@ -753,7 +753,23 @@
       "width": 160
     }
   }, 
-  "shapes": {}, 
+  "physical": {
+    "stackup": [
+      "top", 
+      "bottom"
+    ]
+  }, 
+  "shapes": {
+    "POURS": {
+      "footprint": "pours", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        0
+      ], 
+      "show": true
+    }
+  }, 
   "soldermask": {
     "circle-buffer": 0.05, 
     "path-scale": 1.05, 
@@ -763,9 +779,6 @@
     "circle-buffer": -0.1, 
     "path-scale": 0.9, 
     "rect-buffer": -0.1
-  }, 
-  "stackup": {
-    "name": "two-layer"
   }, 
   "vias": {
     "default-via": "VIA"
