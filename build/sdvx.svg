@@ -3,7 +3,7 @@
     <inkscape:grid emspacing="5" enabled="false" id="pcbmode-grid" spacingx="0.1mm" spacingy="0.1mm" type="xygrid" units="mm" visible="true"/>
   </sodipodi:namedview>
   <!--
-Hello! This SVG file was generated using PCBmodE version 4.1.dev21-ng28d742f on 2017-01-27 06:00:31 GMT. 
+Hello! This SVG file was generated using PCBmodE version 4.1.dev21-ng28d742f on 2017-01-28 04:00:47 GMT. 
 PCBmodE is open source software
 
   http://pcbmode.com
@@ -460,11 +460,11 @@ and is maintained by Boldport
         <path d="m 62.051043,-14.439633 c 1.267265,1.267265 2.026545,1.594183 3.157711,1.594183" style="stroke-linejoin:round;stroke-width:0.2822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="79e9c5bb9"/>
         <path d="m 68.765052,-12.863406 -3.372314,0" style="stroke-linejoin:round;stroke-width:0.482;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="db418e1ab"/>
         <path d="m 28.113541,-37.494074 -2.131795,0" style="stroke-linejoin:round;stroke-width:0.782;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="ddf9777e5" pcbmode:buffer-to-pour="0.0"/>
-        <path d="m -57.179496,-5.9901608 -3.708985,0" style="stroke-linejoin:round;stroke-width:1.282;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="3627bb9e2" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 40.783487,-27.939985 -2.548799,0" style="stroke-linejoin:round;stroke-width:0.4822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="4d9a1518d" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 21.994749,-27.018373 -0.883637,0" style="stroke-linejoin:round;stroke-width:0.3822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="eec9514d8" pcbmode:buffer-to-pour="0.0"/>
         <path d="m -68.672092,-12.891435 3.387642,0" style="stroke-linejoin:round;stroke-width:0.482;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="c99f4e04c"/>
         <path d="m 48.405147,-27.915239 c 1.073864,0 1.954905,-1.070837 1.954905,-2.202362" style="stroke-linejoin:round;stroke-width:0.4822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="3b395254b"/>
+        <path d="M 18.74502200000001,-38.40459272103147 18.74502200000001,-47.24572417573477" style="stroke-linejoin:round;stroke-width:0.2839;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="8c894ed9e" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 38.215223,-28.995626 c -2.91024,0 -3.113171,-0.281376 -3.91951,0.524935 -0.808598,0.808598 -1.336354,0.822397 -2.677166,0.822397" style="stroke-linejoin:round;stroke-width:0.3822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="2b9d166c3"/>
         <path d="m -41.034003,37.474349 0,-13.726874" style="stroke-linejoin:round;stroke-width:0.582;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="b82a6c80e" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 29.004562,-32.295218 c 1.608468,-0.04949 3.911395,-1.78342 3.93061,-4.179825 0,-3.023486 0.126077,-3.714036 1.488686,-3.714036" style="stroke-linejoin:round;stroke-width:0.2822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="681a9dcca"/>
@@ -497,9 +497,7 @@ and is maintained by Boldport
         <path d="m 25.766443,-19.160088 c 0,3.589373 -11.669707,5.471459 -25.68419756,5.471459 -28.45574944,0 -31.65306244,-0.93469 -31.65306244,9.7220106" style="stroke-linejoin:round;stroke-width:0.2822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="7b63779df"/>
         <path d="m 24.608301,-39.351288 c 0,1.234733 1.183037,0.70204 1.183037,1.944058" style="stroke-linejoin:round;stroke-width:0.482;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="7f096acdb" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 2.4686947,7.4206825 0,-14.3708813" style="stroke-linejoin:round;stroke-width:0.582;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="2b7d8676a" pcbmode:buffer-to-pour="0.0"/>
-        <path d="m -56.750158,-14.147585 -3.708985,0" style="stroke-linejoin:round;stroke-width:1.282;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="469598f65" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 24.175277,-19.228611 c -1.055295,3.938414 -25.10533995,3.170302 -53.284853,3.170302 -25.693058,0 -34.868773,8.4587832 -36.275827,3.207585" style="stroke-linejoin:round;stroke-width:0.2822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="c329c554c"/>
-        <path d="m 67.561346,-8.979306 3.708985,0" style="stroke-linejoin:round;stroke-width:0.982;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="c27dc4ae0" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 31.751329,-26.801685 c 2.748023,0 1.727475,0.940334 4.08303,0.940334" style="stroke-linejoin:round;stroke-width:0.2822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="3c974516e"/>
         <path d="m 27.211187,-37.37795 0,-9.789691" style="stroke-linejoin:round;stroke-width:0.3002;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="e380bcc2e" pcbmode:buffer-to-pour="0.0"/>
         <path d="M 20.84109056229938,-35.07055299999999 19.71626810525614,-35.07055299999999" style="stroke-linejoin:round;stroke-width:1.0378;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="973f6180f"/>
@@ -508,14 +506,12 @@ and is maintained by Boldport
         <path d="m 31.780525,-30.035176 1.20109,-0.951235" style="stroke-linejoin:round;stroke-width:0.2822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="40515fa42"/>
         <path d="m 31.751329,-29.196266 c 2.339636,0 2.66702,-3.309654 6.604085,-3.309654 2.900068,0 4.754166,0.73546 4.754166,2.413064" style="stroke-linejoin:round;stroke-width:0.2822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="aacd394c2"/>
         <path d="m -55.563506,7.3491261 0,-13.7268742" style="stroke-linejoin:round;stroke-width:0.582;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="4ae299ee3" pcbmode:buffer-to-pour="0.0"/>
-        <path d="m 22.675255,-27.046554 -1.271797,0" style="stroke-linejoin:round;stroke-width:1.1791;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="162286b4f" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 31.776027,-25.216098 c 1.248989,0 2.841744,1.306243 2.841744,3.269178 0,4.898616 -0.6892,8.333044 -1.925784,10.47487 -1.262245,2.1862736 -1.125934,3.1001764 -1.125934,8.3381903" style="stroke-linejoin:round;stroke-width:0.2822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="1b115c504"/>
         <path d="m 26.602989,-19.182697 c 0,3.374481 -9.339165,6.842038 -26.79780254,6.842038 -29.69382546,0 -28.79853946,-1.155538 -28.79853946,12.03675134 0,16.87036666 3.112741,16.68568666 5.652331,16.68568666 6.654133,0 6.285394,1.598066 6.285394,10.44551" style="stroke-linejoin:round;stroke-width:0.2822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="0912989b9"/>
         <path d="m 18.11756,-30.010499 8.199149,0 1.557305,1.557305 2.502187,0" style="stroke-linejoin:round;stroke-width:0.3822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="c5568a9c6"/>
         <path d="m 30.996207,-20.867257 0,-1.039192" style="stroke-linejoin:round;stroke-width:0.5393;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="197ba45d4"/>
         <path d="m 16.922161,-37.503946 2.68877,0" style="stroke-linejoin:round;stroke-width:0.6822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="9af1276c2" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 55.712058,0.01551143 3.708985,0" style="stroke-linejoin:round;stroke-width:0.5819;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="3a0e1bf63" pcbmode:buffer-to-pour="0.0"/>
-        <path d="m 18.745022,-37.473919 0,-9.757597" style="stroke-linejoin:round;stroke-width:0.2983;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="fa41f3948" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 41.522308,-34.979878 -1.557305,0" style="stroke-linejoin:round;stroke-width:0.4822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="a921ef3a9" pcbmode:buffer-to-pour="0.0"/>
         <path d="m 28.206474,-20.52497 0,-7.883448" style="stroke-linejoin:round;stroke-width:0.3805;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="adfd6747f"/>
         <path d="m 43.183816,-29.969128 0,1.954906" style="stroke-linejoin:round;stroke-width:0.4822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="d14341af9"/>
@@ -1920,6 +1916,7 @@ and is maintained by Boldport
         <path d="m 41.571426,-35.037927 c 10.125599,0 12.886244,6.092263 17.990961,11.196981 3.905607,3.905606 9.120614,2.201685 9.953732,5.310922" style="stroke-linejoin:round;stroke-width:0.4822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="375397266"/>
         <path d="m -26.277764,20.409424 c 10.314386,0 20.7588174,-2.362239 25.1884506,-1.175322 0.77931125,0.208815 -2.7302714,1.207091 -1.8170158,1.479812 2.61832325,0.781898 14.8234032,0.960334 20.3968682,0.960334 15.642723,0 13.701395,-0.06873 13.987393,-1.136094" style="stroke-linejoin:round;stroke-width:0.882;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="92ca36d78"/>
         <path d="m -45.882428,9.7907704 c 0.997913,0.9979126 1.321113,1.2370616 1.321113,2.4086606 l 0,2.633061" style="stroke-linejoin:round;stroke-width:0.8822;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="378a27e8a"/>
+        <path d="M -57.98429064431287,-14.00217693293862 C -57.22299464431287,-12.68357293293862 -60.259276,-8.218345499999998 -59.017436,-6.0674152" style="stroke-linejoin:round;stroke-width:1.482;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="b8c857a50"/>
         <path d="m -26.174462,39.686472 c 3.925435,0 13.928098,1.491537 16.2143854,2.104146 6.7368362,1.80513 30.1214736,1.203061 36.0334026,1.203061" style="stroke-linejoin:round;stroke-width:0.482;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="df68a051d"/>
         <path d="m 69.513526,-8.9901959 0,-9.4299531" style="stroke-linejoin:round;stroke-width:0.482;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="263b9ce6d"/>
         <path d="m -27.908312,45.082177 c 0,1.858975 -0.731452,1.290493 -8.940206,1.290493 -8.361322,0 -10.111447,-14.257519 -10.111447,-27.658212" style="stroke-linejoin:round;stroke-width:0.882;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="c25c86ab9"/>
@@ -1944,7 +1941,6 @@ and is maintained by Boldport
         <path d="m 26.028472,20.366515 c -22.7198137,0 -28.232865,-4.89307 -34.2759742,-3.404545 -11.4740038,3.07445 -15.9969298,1.206807 -17.9873538,0.05763" style="stroke-linejoin:round;stroke-width:0.482;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="f21304eed"/>
         <path d="m 11.880182,-9.6554364 c -12.30958022,0 -10.0188822,-3.2074576 -23.603599,-3.2074576" style="stroke-linejoin:round;stroke-width:0.4823;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="13f786844"/>
         <path d="M 18.231576,-33.0809258955695 18.231576,-16.98149567180122" style="stroke-linejoin:round;stroke-width:1.4545;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="97ec0c90c"/>
-        <path d="M -57.98429064431287,-14.00217693293862 C -57.22299464431287,-12.68357293293862 -60.259276,-8.218345499999998 -59.017436,-6.0674152" style="stroke-linejoin:round;stroke-width:1.482;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="e665ba31e"/>
         <path d="m 46.238674,-12.888062 c 0,-4.999734 1.763418,-8.024009 -15.275651,-8.024009" style="stroke-linejoin:round;stroke-width:0.482;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="4896a8ee2"/>
         <path d="m 26.285927,39.761444 c -5.35437,0 -11.571435,-1.510765 -16.11337,-2.727773 -1.8065757,-0.48407 2.874942,5.817346 2.874942,2.573696 0,-4.795347 -4.2684981,-12.889535 -4.2684981,-17.953577" style="stroke-linejoin:round;stroke-width:0.882;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="c13ba0320"/>
         <path d="m 40.576486,12.895069 c -10.774404,0 -10.743753,-3.1251571 -23.08976,-3.1251571" style="stroke-linejoin:round;stroke-width:0.482;stroke-linecap:round;fill:none;" pcbmode:style="stroke" pcbmode:id="6f91cd0c6"/>
@@ -3145,7 +3141,7 @@ and is maintained by Boldport
           <tspan dy="0.1" x="0">[43.50,-11.30]</tspan>
         </text>
       </g>
-      <g transform="translate(41.5,-35)" pcbmode:type="component" pcbmode:footprint="via" pcbmode:refdef="Via 4">
+      <g transform="translate(41.5,-35)" pcbmode:type="component" pcbmode:footprint="via_nobuf" pcbmode:refdef="Via 4">
         <path d="m 0,0.1 c 0.05522847498,0 0.1,-0.04477152502 0.1,-0.1 0,-0.05522847498 -0.04477152502,-0.1 -0.1,-0.1 -0.05522847498,0 -0.1,0.04477152502 -0.1,0.1 0,0.05522847498 0.04477152502,0.1 0.1,0.1 m -0.18,-0.1 0.36,0 z" transform="rotate(0)"/>
         <text style="font-size:0.1px;font-family:Sans serif;writing-mode:lr-tb;fill-opacity:0.8;fill:#222222;letter-spacing:0;text-anchor:middle;line-height: 100%;word-spacing:0;stroke:none;font-stretch:normal;font-variant:normal;font-weight:bold;font-style:normal;text-align:center;" x="0" y="-0.17">
           <tspan dy="0.1" x="0">Via 4</tspan>
@@ -3169,7 +3165,7 @@ and is maintained by Boldport
           <tspan dy="0.1" x="0">[-43.50,-15.00]</tspan>
         </text>
       </g>
-      <g transform="translate(22,-27)" pcbmode:type="component" pcbmode:footprint="via" pcbmode:refdef="Via 1">
+      <g transform="translate(22,-27)" pcbmode:type="component" pcbmode:footprint="via_nobuf" pcbmode:refdef="Via 1">
         <path d="m 0,0.1 c 0.05522847498,0 0.1,-0.04477152502 0.1,-0.1 0,-0.05522847498 -0.04477152502,-0.1 -0.1,-0.1 -0.05522847498,0 -0.1,0.04477152502 -0.1,0.1 0,0.05522847498 0.04477152502,0.1 0.1,0.1 m -0.18,-0.1 0.36,0 z" transform="rotate(0)"/>
         <text style="font-size:0.1px;font-family:Sans serif;writing-mode:lr-tb;fill-opacity:0.8;fill:#222222;letter-spacing:0;text-anchor:middle;line-height: 100%;word-spacing:0;stroke:none;font-stretch:normal;font-variant:normal;font-weight:bold;font-style:normal;text-align:center;" x="0" y="-0.17">
           <tspan dy="0.1" x="0">Via 1</tspan>
@@ -3185,7 +3181,7 @@ and is maintained by Boldport
           <tspan dy="0.1" x="0">[-43.50,11.30]</tspan>
         </text>
       </g>
-      <g transform="translate(28,-37.5)" pcbmode:type="component" pcbmode:footprint="via" pcbmode:refdef="Via 3">
+      <g transform="translate(28,-37.5)" pcbmode:type="component" pcbmode:footprint="via_nobuf" pcbmode:refdef="Via 3">
         <path d="m 0,0.1 c 0.05522847498,0 0.1,-0.04477152502 0.1,-0.1 0,-0.05522847498 -0.04477152502,-0.1 -0.1,-0.1 -0.05522847498,0 -0.1,0.04477152502 -0.1,0.1 0,0.05522847498 0.04477152502,0.1 0.1,0.1 m -0.18,-0.1 0.36,0 z" transform="rotate(0)"/>
         <text style="font-size:0.1px;font-family:Sans serif;writing-mode:lr-tb;fill-opacity:0.8;fill:#222222;letter-spacing:0;text-anchor:middle;line-height: 100%;word-spacing:0;stroke:none;font-stretch:normal;font-variant:normal;font-weight:bold;font-style:normal;text-align:center;" x="0" y="-0.17">
           <tspan dy="0.1" x="0">Via 3</tspan>
@@ -3193,7 +3189,7 @@ and is maintained by Boldport
           <tspan dy="0.1" x="0">[28.00,37.50]</tspan>
         </text>
       </g>
-      <g transform="translate(29.2,-27)" pcbmode:type="component" pcbmode:footprint="via" pcbmode:refdef="Via 2">
+      <g transform="translate(29.2,-27)" pcbmode:type="component" pcbmode:footprint="via_nobuf" pcbmode:refdef="Via 2">
         <path d="m 0,0.1 c 0.05522847498,0 0.1,-0.04477152502 0.1,-0.1 0,-0.05522847498 -0.04477152502,-0.1 -0.1,-0.1 -0.05522847498,0 -0.1,0.04477152502 -0.1,0.1 0,0.05522847498 0.04477152502,0.1 0.1,0.1 m -0.18,-0.1 0.36,0 z" transform="rotate(0)"/>
         <text style="font-size:0.1px;font-family:Sans serif;writing-mode:lr-tb;fill-opacity:0.8;fill:#222222;letter-spacing:0;text-anchor:middle;line-height: 100%;word-spacing:0;stroke:none;font-stretch:normal;font-variant:normal;font-weight:bold;font-style:normal;text-align:center;" x="0" y="-0.17">
           <tspan dy="0.1" x="0">Via 2</tspan>
@@ -3217,7 +3213,7 @@ and is maintained by Boldport
           <tspan dy="0.1" x="0">[14.50,-11.30]</tspan>
         </text>
       </g>
-      <g transform="translate(69.5,-9)" pcbmode:type="component" pcbmode:footprint="via" pcbmode:refdef="Via 15">
+      <g transform="translate(69.5,-9)" pcbmode:type="component" pcbmode:footprint="via_nobuf" pcbmode:refdef="Via 15">
         <path d="m 0,0.1 c 0.05522847498,0 0.1,-0.04477152502 0.1,-0.1 0,-0.05522847498 -0.04477152502,-0.1 -0.1,-0.1 -0.05522847498,0 -0.1,0.04477152502 -0.1,0.1 0,0.05522847498 0.04477152502,0.1 0.1,0.1 m -0.18,-0.1 0.36,0 z" transform="rotate(0)"/>
         <text style="font-size:0.1px;font-family:Sans serif;writing-mode:lr-tb;fill-opacity:0.8;fill:#222222;letter-spacing:0;text-anchor:middle;line-height: 100%;word-spacing:0;stroke:none;font-stretch:normal;font-variant:normal;font-weight:bold;font-style:normal;text-align:center;" x="0" y="-0.17">
           <tspan dy="0.1" x="0">Via 15</tspan>
@@ -3249,7 +3245,7 @@ and is maintained by Boldport
           <tspan dy="0.1" x="0">[69.50,18.50]</tspan>
         </text>
       </g>
-      <g transform="translate(-58,-14)" pcbmode:type="component" pcbmode:footprint="via" pcbmode:refdef="Via 10">
+      <g transform="translate(-58,-14)" pcbmode:type="component" pcbmode:footprint="via_nobuf" pcbmode:refdef="Via 10">
         <path d="m 0,0.1 c 0.05522847498,0 0.1,-0.04477152502 0.1,-0.1 0,-0.05522847498 -0.04477152502,-0.1 -0.1,-0.1 -0.05522847498,0 -0.1,0.04477152502 -0.1,0.1 0,0.05522847498 0.04477152502,0.1 0.1,0.1 m -0.18,-0.1 0.36,0 z" transform="rotate(0)"/>
         <text style="font-size:0.1px;font-family:Sans serif;writing-mode:lr-tb;fill-opacity:0.8;fill:#222222;letter-spacing:0;text-anchor:middle;line-height: 100%;word-spacing:0;stroke:none;font-stretch:normal;font-variant:normal;font-weight:bold;font-style:normal;text-align:center;" x="0" y="-0.17">
           <tspan dy="0.1" x="0">Via 10</tspan>
@@ -3257,7 +3253,7 @@ and is maintained by Boldport
           <tspan dy="0.1" x="0">[-58.00,14.00]</tspan>
         </text>
       </g>
-      <g transform="translate(18,-37.5)" pcbmode:type="component" pcbmode:footprint="via" pcbmode:refdef="Via 14">
+      <g transform="translate(18,-37.5)" pcbmode:type="component" pcbmode:footprint="via_nobuf" pcbmode:refdef="Via 14">
         <path d="m 0,0.1 c 0.05522847498,0 0.1,-0.04477152502 0.1,-0.1 0,-0.05522847498 -0.04477152502,-0.1 -0.1,-0.1 -0.05522847498,0 -0.1,0.04477152502 -0.1,0.1 0,0.05522847498 0.04477152502,0.1 0.1,0.1 m -0.18,-0.1 0.36,0 z" transform="rotate(0)"/>
         <text style="font-size:0.1px;font-family:Sans serif;writing-mode:lr-tb;fill-opacity:0.8;fill:#222222;letter-spacing:0;text-anchor:middle;line-height: 100%;word-spacing:0;stroke:none;font-stretch:normal;font-variant:normal;font-weight:bold;font-style:normal;text-align:center;" x="0" y="-0.17">
           <tspan dy="0.1" x="0">Via 14</tspan>
@@ -3265,7 +3261,7 @@ and is maintained by Boldport
           <tspan dy="0.1" x="0">[18.00,37.50]</tspan>
         </text>
       </g>
-      <g transform="translate(-59,-6)" pcbmode:type="component" pcbmode:footprint="via" pcbmode:refdef="Via 11">
+      <g transform="translate(-59,-6)" pcbmode:type="component" pcbmode:footprint="via_nobuf" pcbmode:refdef="Via 11">
         <path d="m 0,0.1 c 0.05522847498,0 0.1,-0.04477152502 0.1,-0.1 0,-0.05522847498 -0.04477152502,-0.1 -0.1,-0.1 -0.05522847498,0 -0.1,0.04477152502 -0.1,0.1 0,0.05522847498 0.04477152502,0.1 0.1,0.1 m -0.18,-0.1 0.36,0 z" transform="rotate(0)"/>
         <text style="font-size:0.1px;font-family:Sans serif;writing-mode:lr-tb;fill-opacity:0.8;fill:#222222;letter-spacing:0;text-anchor:middle;line-height: 100%;word-spacing:0;stroke:none;font-stretch:normal;font-variant:normal;font-weight:bold;font-style:normal;text-align:center;" x="0" y="-0.17">
           <tspan dy="0.1" x="0">Via 11</tspan>
@@ -3588,9 +3584,7 @@ and is maintained by Boldport
       <g transform="translate(43.5,11.3)">
         <path d="m 0.750000,0.000000 l 5.51091059616e-17,0.45 c 1.69088208205e-17,0.138071 -0.111929,0.25 -0.25,0.25 l -0.5,6.12323399574e-17 l -0.5,6.12323399574e-17 c -0.138071,1.69088208205e-17 -0.25,-0.111929 -0.25,-0.25 l -5.51091059616e-17,-0.45 l -5.51091059616e-17,-0.45 c -1.69088208205e-17,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.5,-6.12323399574e-17 l 0.5,-6.12323399574e-17 c 0.138071,-1.69088208205e-17 0.25,0.111929 0.25,0.25 l 5.51091059616e-17,0.45 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(2.5,1.6)" pcbmode:gerber-lp="c"/>
       </g>
-      <g transform="translate(41.5,-35)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
+      <g transform="translate(41.5,-35)"/>
       <g transform="translate(-43.5,-15)">
         <path d="m -0.771000,0.000000 l 0.0,-0.3215 c 0.0,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.521,0.0 l 0.771,0.0 l 0.0,0.5715 l 0.0,0.5715 l -0.771,0.0 l -0.521,0.0 c -0.138071,0.0 -0.25,-0.111929 -0.25,-0.25 l 0.0,-0.3215 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(-1.143,-0.0)" pcbmode:gerber-lp="c"/>
       </g>
@@ -3603,9 +3597,7 @@ and is maintained by Boldport
       <g transform="translate(-43.5,15)">
         <path d="m 0.771000,-0.000000 l 3.93723945926e-17,0.3215 c 1.69088208205e-17,0.138071 -0.111929,0.25 -0.25,0.25 l -0.521,6.38040982356e-17 l -0.771,9.44202682143e-17 l -6.99885645713e-17,-0.5715 l -6.99885645713e-17,-0.5715 l 0.771,-9.44202682143e-17 l 0.521,-6.38040982356e-17 c 0.138071,-1.69088208205e-17 0.25,0.111929 0.25,0.25 l 3.93723945926e-17,0.3215 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(1.143,-0.0)" pcbmode:gerber-lp="c"/>
       </g>
-      <g transform="translate(22,-27)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
+      <g transform="translate(22,-27)"/>
       <g transform="translate(-43.5,-11.3)">
         <path d="m -0.750000,-0.000000 l 0.0,-0.45 c 0.0,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.5,0.0 l 0.5,0.0 c 0.138071,0.0 0.25,0.111929 0.25,0.25 l 0.0,0.45 l 0.0,0.45 c 0.0,0.138071 -0.111929,0.25 -0.25,0.25 l -0.5,0.0 l -0.5,0.0 c -0.138071,0.0 -0.25,-0.111929 -0.25,-0.25 l 0.0,-0.45 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(2.5,-1.6)" pcbmode:gerber-lp="c"/>
       </g>
@@ -3618,12 +3610,8 @@ and is maintained by Boldport
       <g transform="translate(-43.5,-11.3)">
         <path d="m -0.750000,-0.000000 l 0.0,-0.45 c 0.0,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.5,0.0 l 0.5,0.0 c 0.138071,0.0 0.25,0.111929 0.25,0.25 l 0.0,0.45 l 0.0,0.45 c 0.0,0.138071 -0.111929,0.25 -0.25,0.25 l -0.5,0.0 l -0.5,0.0 c -0.138071,0.0 -0.25,-0.111929 -0.25,-0.25 l 0.0,-0.45 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(-2.5,-1.6)" pcbmode:gerber-lp="c"/>
       </g>
-      <g transform="translate(28,-37.5)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
-      <g transform="translate(29.2,-27)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
+      <g transform="translate(28,-37.5)"/>
+      <g transform="translate(29.2,-27)"/>
       <g transform="translate(-29,41.3)">
         <path d="m 0.750000,0.000000 l 5.51091059616e-17,0.45 c 1.69088208205e-17,0.138071 -0.111929,0.25 -0.25,0.25 l -0.5,6.12323399574e-17 l -0.5,6.12323399574e-17 c -0.138071,1.69088208205e-17 -0.25,-0.111929 -0.25,-0.25 l -5.51091059616e-17,-0.45 l -5.51091059616e-17,-0.45 c -1.69088208205e-17,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.5,-6.12323399574e-17 l 0.5,-6.12323399574e-17 c 0.138071,-1.69088208205e-17 0.25,0.111929 0.25,0.25 l 5.51091059616e-17,0.45 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(-2.5,1.6)" pcbmode:gerber-lp="c"/>
       </g>
@@ -3648,9 +3636,7 @@ and is maintained by Boldport
       <g transform="translate(14.5,11.3)">
         <path d="m 0.750000,0.000000 l 5.51091059616e-17,0.45 c 1.69088208205e-17,0.138071 -0.111929,0.25 -0.25,0.25 l -0.5,6.12323399574e-17 l -0.5,6.12323399574e-17 c -0.138071,1.69088208205e-17 -0.25,-0.111929 -0.25,-0.25 l -5.51091059616e-17,-0.45 l -5.51091059616e-17,-0.45 c -1.69088208205e-17,-0.138071 0.111929,-0.25 0.25,-0.25 l 0.5,-6.12323399574e-17 l 0.5,-6.12323399574e-17 c 0.138071,-1.69088208205e-17 0.25,0.111929 0.25,0.25 l 5.51091059616e-17,0.45 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(2.5,1.6)" pcbmode:gerber-lp="c"/>
       </g>
-      <g transform="translate(69.5,-9)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
+      <g transform="translate(69.5,-9)"/>
       <g transform="translate(18.25,-33)">
         <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
       </g>
@@ -3696,15 +3682,9 @@ and is maintained by Boldport
       <g transform="translate(69.5,-18.5)">
         <path d="m 0.000000,0.850000 c 0.46944203733,0.0 0.85,-0.38055796267 0.85,-0.85 0.0,-0.46944203733 -0.38055796267,-0.85 -0.85,-0.85 -0.46944203733,0.0 -0.85,0.38055796267 -0.85,0.85 0.0,0.46944203733 0.38055796267,0.85 0.85,0.85 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(-2.5,-14.5)" pcbmode:gerber-lp="c"/>
       </g>
-      <g transform="translate(-58,-14)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
-      <g transform="translate(18,-37.5)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
-      <g transform="translate(-59,-6)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
+      <g transform="translate(-58,-14)"/>
+      <g transform="translate(18,-37.5)"/>
+      <g transform="translate(-59,-6)"/>
       <g transform="translate(31,-21)">
         <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
       </g>
@@ -3772,6 +3752,7 @@ and is maintained by Boldport
       <path d="m 41.571426,-35.037927 c 10.125599,0 12.886244,6.092263 17.990961,11.196981 3.905607,3.905606 9.120614,2.201685 9.953732,5.310922" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.2822;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
       <path d="m -26.277764,20.409424 c 10.314386,0 20.7588174,-2.362239 25.1884506,-1.175322 0.77931125,0.208815 -2.7302714,1.207091 -1.8170158,1.479812 2.61832325,0.781898 14.8234032,0.960334 20.3968682,0.960334 15.642723,0 13.701395,-0.06873 13.987393,-1.136094" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.682;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
       <path d="m -45.882428,9.7907704 c 0.997913,0.9979126 1.321113,1.2370616 1.321113,2.4086606 l 0,2.633061" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.6822;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
+      <path d="M -57.98429064431287,-14.00217693293862 C -57.22299464431287,-12.68357293293862 -60.259276,-8.218345499999998 -59.017436,-6.0674152" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:2.282;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
       <path d="m -26.174462,39.686472 c 3.925435,0 13.928098,1.491537 16.2143854,2.104146 6.7368362,1.80513 30.1214736,1.203061 36.0334026,1.203061" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.282;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
       <path d="m 69.513526,-8.9901959 0,-9.4299531" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.282;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
       <path d="m -27.908312,45.082177 c 0,1.858975 -0.731452,1.290493 -8.940206,1.290493 -8.361322,0 -10.111447,-14.257519 -10.111447,-27.658212" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.682;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
@@ -3796,7 +3777,6 @@ and is maintained by Boldport
       <path d="m 26.028472,20.366515 c -22.7198137,0 -28.232865,-4.89307 -34.2759742,-3.404545 -11.4740038,3.07445 -15.9969298,1.206807 -17.9873538,0.05763" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.282;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
       <path d="m 11.880182,-9.6554364 c -12.30958022,0 -10.0188822,-3.2074576 -23.603599,-3.2074576" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.2823;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
       <path d="M 18.231576,-33.0809258955695 18.231576,-16.98149567180122" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:2.2545;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
-      <path d="M -57.98429064431287,-14.00217693293862 C -57.22299464431287,-12.68357293293862 -60.259276,-8.218345499999998 -59.017436,-6.0674152" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:2.282;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
       <path d="m 46.238674,-12.888062 c 0,-4.999734 1.763418,-8.024009 -15.275651,-8.024009" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.282;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
       <path d="m 26.285927,39.761444 c -5.35437,0 -11.571435,-1.510765 -16.11337,-2.727773 -1.8065757,-0.48407 2.874942,5.817346 2.874942,2.573696 0,-4.795347 -4.2684981,-12.889535 -4.2684981,-17.953577" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.682;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
       <path d="m 40.576486,12.895069 c -10.774404,0 -10.743753,-3.1251571 -23.08976,-3.1251571" style="fill:none;stroke:#000;stroke-linejoin:round;stroke-width:1.282;stroke-linecap:round;" pcbmode:style="stroke" pcbmode:gerber-lp="c"/>
@@ -4058,18 +4038,10 @@ and is maintained by Boldport
       <g transform="translate(33,-31)">
         <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
       </g>
-      <g transform="translate(41.5,-35)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
-      <g transform="translate(22,-27)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
-      <g transform="translate(28,-37.5)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
-      <g transform="translate(29.2,-27)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
+      <g transform="translate(41.5,-35)"/>
+      <g transform="translate(22,-27)"/>
+      <g transform="translate(28,-37.5)"/>
+      <g transform="translate(29.2,-27)"/>
       <g transform="translate(16,-30)">
         <path d="m -0.0,0.771000 l 0.3215,-1.96861972963e-17 c 0.138071,-8.45441041025e-18 0.25,-0.111929 0.25,-0.25 l -3.19020491178e-17,-0.521 l -4.72101341071e-17,-0.771 l -0.5715,3.49942822856e-17 l -0.5715,3.49942822856e-17 l 4.72101341071e-17,0.771 l 3.19020491178e-17,0.521 c 8.45441041025e-18,0.138071 0.111929,0.25 0.25,0.25 l 0.3215,-1.96861972963e-17 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,1.143)" pcbmode:gerber-lp="c"/>
       </g>
@@ -4154,9 +4126,7 @@ and is maintained by Boldport
       <g transform="translate(42,-28)">
         <path d="m -0.771,-0.000000 l -3.93723945926e-17,0.3215 c -1.69088208205e-17,0.138071 0.111929,0.25 0.25,0.25 l 0.521,6.38040982356e-17 l 0.771,9.44202682143e-17 l 6.99885645713e-17,-0.5715 l 6.99885645713e-17,-0.5715 l -0.771,-9.44202682143e-17 l -0.521,-6.38040982356e-17 c -0.138071,-1.69088208205e-17 -0.25,0.111929 -0.25,0.25 l -3.93723945926e-17,0.3215 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(-1.143,-0.0)" pcbmode:gerber-lp="c"/>
       </g>
-      <g transform="translate(69.5,-9)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
+      <g transform="translate(69.5,-9)"/>
       <g transform="translate(18.25,-33)">
         <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
       </g>
@@ -4244,9 +4214,7 @@ and is maintained by Boldport
       <g transform="translate(0,-30)">
         <path d="m 2.0,0.000000 l -0.0,-1.75 c -0.0,-0.138071 -0.111929,-0.25 -0.25,-0.25 l -1.75,0.0 l -1.75,0.0 c -0.138071,0.0 -0.25,0.111929 -0.25,0.25 l -0.0,1.75 l -0.0,1.75 c -0.0,0.138071 0.111929,0.25 0.25,0.25 l 1.75,0.0 l 1.75,0.0 c 0.138071,0.0 0.25,-0.111929 0.25,-0.25 l -0.0,-1.75 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(-12.2,10.0)" pcbmode:gerber-lp="c"/>
       </g>
-      <g transform="translate(-58,-14)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
+      <g transform="translate(-58,-14)"/>
       <g transform="translate(23,-42)">
         <path d="m -0.25,0.000000 l 8.57252759403e-17,0.7 c 2.02905604917e-17,0.165685 0.134315,0.3 0.3,0.3 l -0.05,6.12323399574e-18 l -0.05,6.12323399574e-18 c 0.165685,-2.02905604917e-17 0.3,-0.134315 0.3,-0.3 l -8.57252759403e-17,-0.7 l -8.57252759403e-17,-0.7 c -2.02905604917e-17,-0.165685 -0.134315,-0.3 -0.3,-0.3 l 0.05,-6.12323399574e-18 l 0.05,-6.12323399574e-18 c -0.165685,2.02905604917e-17 -0.3,0.134315 -0.3,0.3 l 8.57252759403e-17,0.7 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(-0.8,2.25)" pcbmode:gerber-lp="c"/>
       </g>
@@ -4274,12 +4242,8 @@ and is maintained by Boldport
       <g transform="translate(23,-42)">
         <path d="m -1.25,0.000000 l 9.79717439318e-17,0.8 c 2.02905604917e-17,0.165685 0.134315,0.3 0.3,0.3 l 0.95,-1.16341445919e-16 l 0.95,-1.16341445919e-16 c 0.165685,-2.02905604917e-17 0.3,-0.134315 0.3,-0.3 l -9.79717439318e-17,-0.8 l -9.79717439318e-17,-0.8 c -2.02905604917e-17,-0.165685 -0.134315,-0.3 -0.3,-0.3 l -0.95,1.16341445919e-16 l -0.95,1.16341445919e-16 c -0.165685,2.02905604917e-17 -0.3,0.134315 -0.3,0.3 l 9.79717439318e-17,0.8 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(-4.2,2.0)" pcbmode:gerber-lp="c"/>
       </g>
-      <g transform="translate(18,-37.5)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
-      <g transform="translate(-59,-6)">
-        <path d="m 0.000000,0.350000 c 0.19329966243,0.0 0.35,-0.15670033757 0.35,-0.35 0.0,-0.19329966243 -0.15670033757,-0.35 -0.35,-0.35 -0.19329966243,0.0 -0.35,0.15670033757 -0.35,0.35 0.0,0.19329966243 0.15670033757,0.35 0.35,0.35 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.4;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,-0.0)" pcbmode:gerber-lp="c"/>
-      </g>
+      <g transform="translate(18,-37.5)"/>
+      <g transform="translate(-59,-6)"/>
       <g transform="translate(65.33,-14)">
         <path d="m -0.0,0.771000 l 0.3215,-1.96861972963e-17 c 0.138071,-8.45441041025e-18 0.25,-0.111929 0.25,-0.25 l -3.19020491178e-17,-0.521 l -4.72101341071e-17,-0.771 l -0.5715,3.49942822856e-17 l -0.5715,3.49942822856e-17 l 4.72101341071e-17,0.771 l 3.19020491178e-17,0.521 c 8.45441041025e-18,0.138071 0.111929,0.25 0.25,0.25 l 0.3215,-1.96861972963e-17 z " style="fill:#000;stroke:#000;stroke-linejoin:round;stroke-width:0.5;stroke-linecap:round;" pcbmode:style="fill" transform="translate(0.0,1.143)" pcbmode:gerber-lp="c"/>
       </g>

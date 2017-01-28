@@ -909,7 +909,7 @@
       }
     }, 
     "Via 1": {
-      "footprint": "via", 
+      "footprint": "via_nobuf", 
       "layer": "top", 
       "location": [
         22, 
@@ -922,7 +922,7 @@
       }
     }, 
     "Via 10": {
-      "footprint": "via", 
+      "footprint": "via_nobuf", 
       "layer": "top", 
       "location": [
         -58, 
@@ -935,7 +935,7 @@
       }
     }, 
     "Via 11": {
-      "footprint": "via", 
+      "footprint": "via_nobuf", 
       "layer": "top", 
       "location": [
         -59, 
@@ -974,7 +974,7 @@
       }
     }, 
     "Via 14": {
-      "footprint": "via", 
+      "footprint": "via_nobuf", 
       "layer": "top", 
       "location": [
         18, 
@@ -987,7 +987,7 @@
       }
     }, 
     "Via 15": {
-      "footprint": "via", 
+      "footprint": "via_nobuf", 
       "layer": "top", 
       "location": [
         69.5, 
@@ -1000,7 +1000,7 @@
       }
     }, 
     "Via 2": {
-      "footprint": "via", 
+      "footprint": "via_nobuf", 
       "layer": "top", 
       "location": [
         29.2, 
@@ -1013,7 +1013,7 @@
       }
     }, 
     "Via 3": {
-      "footprint": "via", 
+      "footprint": "via_nobuf", 
       "layer": "top", 
       "location": [
         28, 
@@ -1026,7 +1026,7 @@
       }
     }, 
     "Via 4": {
-      "footprint": "via", 
+      "footprint": "via_nobuf", 
       "layer": "top", 
       "location": [
         41.5, 
