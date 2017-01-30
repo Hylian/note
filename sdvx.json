@@ -1102,6 +1102,84 @@
           "show": false
         }
       }
+    },
+    "Via 16": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        37, 
+        18.5
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    },
+    "Via 17": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        24, 
+        9.5
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    },
+    "Via 18": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -9
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    },
+    "Via 19": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        -33, 
+        -9
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    },
+    "Via 20": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        50.7, 
+        -14
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    },
+    "Via 21": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        13, 
+        -39
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }
   }, 
   "config": {
