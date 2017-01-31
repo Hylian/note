@@ -61,7 +61,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [3.1,0]
         }
       }
     }, 
@@ -74,7 +75,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.5]
         }
       }
     }, 
@@ -87,7 +89,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,1.5]
         }
       }
     }, 
@@ -100,7 +103,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.5]
         }
       }
     }, 
@@ -113,7 +117,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,1.5]
         }
       }
     }, 
@@ -126,7 +131,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.5]
         }
       }
     }, 
@@ -139,7 +145,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,1.5]
         }
       }
     }, 
@@ -152,7 +159,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.5]
         }
       }
     }, 
@@ -165,7 +173,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,1.5]
         }
       }
     }, 
@@ -178,7 +187,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.5]
         }
       }
     }, 
@@ -191,7 +201,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,1.5]
         }
       }
     }, 
@@ -204,7 +215,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [3.1, 0]
         }
       }
     }, 
@@ -218,7 +230,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,1.5]
         }
       }
     }, 
@@ -232,7 +245,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -246,7 +260,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -260,7 +275,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -274,7 +290,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -287,7 +304,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0, -1.5]
         }
       }
     }, 
@@ -301,7 +319,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.5]
         }
       }
     }, 
@@ -315,7 +334,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.5]
         }
       }
     }, 
@@ -328,7 +348,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.5]
         }
       }
     }, 
@@ -341,7 +362,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,1.4]
         }
       }
     }, 
@@ -355,7 +377,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.5]
         }
       }
     }, 
@@ -368,7 +391,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.5]
         }
       }
     }, 
@@ -381,11 +405,12 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,1.5]
         }
       }
     }, 
-    "Crystal": {
+    "X1": {
       "footprint": "crystal", 
       "layer": "bottom", 
       "location": [
@@ -394,7 +419,7 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
@@ -487,11 +512,12 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true,
+          "location": [0,5.5]
         }
       }
     }, 
-    "LED-A-Bottom": {
+    "LED-AB": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -501,11 +527,11 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-A-Top": {
+    "LED-AT": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -514,11 +540,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-B-Bottom": {
+    "LED-BB": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -528,11 +554,11 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-B-Top": {
+    "LED-BT": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -541,11 +567,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-C-Bottom": {
+    "LED-CB": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -555,11 +581,11 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-C-Top": {
+    "LED-CT": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -568,11 +594,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-D-Bottom": {
+    "LED-DB": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -582,11 +608,11 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-D-Top": {
+    "LED-DT": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -595,11 +621,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-L-Bottom": {
+    "LED-LB": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -609,11 +635,11 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-L-Top": {
+    "LED-LT": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -622,11 +648,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-R-Bottom": {
+    "LED-RB": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -636,11 +662,11 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "LED-R-Top": {
+    "LED-RT": {
       "footprint": "neopixel", 
       "layer": "top", 
       "location": [
@@ -649,11 +675,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
-    "Pushbutton": {
+    "B1": {
       "footprint": "pushbutton", 
       "layer": "bottom", 
       "location": [
@@ -663,7 +689,7 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true
         }
       }
     }, 
@@ -677,7 +703,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,1.1]
         }
       }
     }, 
@@ -691,7 +718,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -705,7 +733,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -719,7 +748,23 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
+        }
+      }
+    }, 
+    "R13": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        47, 
+        16
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "show": true,
+          "location": [0,1.5]
         }
       }
     }, 
@@ -733,7 +778,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,-1.2]
         }
       }
     }, 
@@ -746,7 +792,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.3,0]
         }
       }
     }, 
@@ -759,7 +806,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [0,1.4]
         }
       }
     }, 
@@ -773,7 +821,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -787,7 +836,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -801,7 +851,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -815,7 +866,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -829,7 +881,8 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": true,
+          "location": [-3.5,0]
         }
       }
     }, 
@@ -878,7 +931,8 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true,
+          "location": [0, -2]
         }
       }
     }, 
@@ -891,7 +945,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true,
+          "location": [0,5]
         }
       }
     }, 
@@ -904,7 +959,8 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": false
+          "show": true,
+          "location": [0,5]
         }
       }
     }, 
@@ -999,12 +1055,90 @@
         }
       }
     }, 
+    "Via 16": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        37, 
+        18.5
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "Via 17": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        24, 
+        9.5
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "Via 18": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -9
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "Via 19": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        -33, 
+        -9
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
     "Via 2": {
       "footprint": "via_nobuf", 
       "layer": "top", 
       "location": [
         29.2, 
         27
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "Via 20": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        50.7, 
+        -14
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "Via 21": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        13, 
+        -39
       ], 
       "silkscreen": {
         "refdef": {
@@ -1102,84 +1236,6 @@
           "show": false
         }
       }
-    },
-    "Via 16": {
-      "footprint": "via_nobuf", 
-      "layer": "top", 
-      "location": [
-        37, 
-        18.5
-      ], 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    },
-    "Via 17": {
-      "footprint": "via_nobuf", 
-      "layer": "top", 
-      "location": [
-        24, 
-        9.5
-      ], 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    },
-    "Via 18": {
-      "footprint": "via_nobuf", 
-      "layer": "top", 
-      "location": [
-        0, 
-        -9
-      ], 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    },
-    "Via 19": {
-      "footprint": "via_nobuf", 
-      "layer": "top", 
-      "location": [
-        -33, 
-        -9
-      ], 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    },
-    "Via 20": {
-      "footprint": "via_nobuf", 
-      "layer": "top", 
-      "location": [
-        50.7, 
-        -14
-      ], 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    },
-    "Via 21": {
-      "footprint": "via_nobuf", 
-      "layer": "top", 
-      "location": [
-        13, 
-        -39
-      ], 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
     }
   }, 
   "config": {
@@ -1223,7 +1279,7 @@
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "SDVX Controller\nEdward Shin"
+      "value": "SDVX Controller\nTokiLabs"
     }
   }, 
   "drill-index": {
