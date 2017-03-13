@@ -1,0 +1,43 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "layers": ["top"],
+          "location": [0, 0],
+          "diameter": 16,
+          "style": "stroke",
+          "stroke-width": 1
+        },
+        {
+          "type": "circle",
+          "layers": ["top"],
+          "location": [0, 0],
+          "diameter": 18,
+          "style": "stroke",
+          "stroke-width": 0.7
+        },
+        {
+          "type": "circle",
+          "layers": ["top"],
+          "location": [0, 0],
+          "diameter": 20,
+          "style": "stroke",
+          "stroke-width": 0.4
+        },
+        {
+          "type": "circle",
+          "layers": ["top"],
+          "location": [0, 0],
+          "diameter": 22,
+          "style": "stroke",
+          "stroke-width": 0.1
+        }
+      ]
+    }
+  }  
+}

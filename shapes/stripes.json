@@ -1,0 +1,43 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 0.8,
+          "height": 28,
+          "location": [0, 0],
+          "style": "fill"
+        },
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 0.6,
+          "height": 28,
+          "location": [-1, 0],
+          "style": "fill"
+        },
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 0.2,
+          "height": 28,
+          "location": [-2, 0],
+          "style": "fill"
+        },
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 0.1,
+          "height": 28,
+          "location": [-3, 0],
+          "style": "fill"
+        }
+      ]
+    }
+  }  
+}

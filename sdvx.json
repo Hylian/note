@@ -1320,6 +1320,81 @@
         0
       ], 
       "show": true
+    },
+    "rings-L": {
+      "footprint": "rings", 
+      "layer": "top", 
+      "location": [
+        -69.5, 
+        26
+      ], 
+      "show": true
+    },
+    "rings-R": {
+      "footprint": "rings", 
+      "layer": "top", 
+      "location": [
+        69.5, 
+        26
+      ], 
+      "show": true
+    },
+    "stripes-TL": {
+      "footprint": "stripes", 
+      "layer": "top", 
+      "location": [
+        -58.5, 
+        0
+      ], 
+      "show": true
+    },
+    "stripes-BLL": {
+      "footprint": "stripes", 
+      "layer": "top", 
+      "location": [
+        -44, 
+        -30
+      ], 
+      "show": true
+    },
+    "stripes-BLT": {
+      "footprint": "stripes", 
+      "layer": "top", 
+      "location": [
+        -14, 
+        -30
+      ], 
+      "rotate": 180, 
+      "show": true
+    },
+    "stripes-TR": {
+      "footprint": "stripes", 
+      "layer": "top", 
+      "location": [
+        58.5, 
+        0
+      ], 
+      "rotate": 180, 
+      "show": true
+    },
+    "stripes-BRR": {
+      "footprint": "stripes", 
+      "layer": "top", 
+      "location": [
+        44, 
+        -30
+      ], 
+      "rotate": 180, 
+      "show": true
+    },
+    "stripes-BRL": {
+      "footprint": "stripes", 
+      "layer": "top", 
+      "location": [
+        14, 
+        -30
+      ], 
+      "show": true
     }
   }, 
   "soldermask": {
