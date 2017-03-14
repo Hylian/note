@@ -8,7 +8,7 @@
         {
           "type": "rect",
           "layers": ["top"],
-          "width": 0.8,
+          "width": 0.9,
           "height": 28,
           "location": [0, 0],
           "style": "fill"
@@ -16,7 +16,7 @@
         {
           "type": "rect",
           "layers": ["top"],
-          "width": 0.6,
+          "width": 0.7,
           "height": 28,
           "location": [-1, 0],
           "style": "fill"
@@ -24,7 +24,7 @@
         {
           "type": "rect",
           "layers": ["top"],
-          "width": 0.2,
+          "width": 0.5,
           "height": 28,
           "location": [-2, 0],
           "style": "fill"
@@ -32,9 +32,17 @@
         {
           "type": "rect",
           "layers": ["top"],
-          "width": 0.1,
+          "width": 0.3,
           "height": 28,
           "location": [-3, 0],
+          "style": "fill"
+        },
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 0.1,
+          "height": 28,
+          "location": [-4, 0],
           "style": "fill"
         }
       ]
