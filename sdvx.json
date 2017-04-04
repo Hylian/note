@@ -1552,6 +1552,16 @@
       ], 
       "show": true
     }, 
+    "info": {
+      "footprint": "info", 
+      "layer": "bottom", 
+      "location": [
+        -52, 
+        -44.5
+      ], 
+      "scale": 1, 
+      "show": true
+    }, 
     "rings-L": {
       "footprint": "rings", 
       "layer": "top", 
@@ -1606,7 +1616,7 @@
       ], 
       "show": true
     }, 
-    "titlesolo": {
+    "title": {
       "footprint": "title", 
       "layer": "top", 
       "location": [
@@ -1614,6 +1624,16 @@
         -22
       ], 
       "rotate": -90, 
+      "scale": 1, 
+      "show": true
+    }, 
+    "toki": {
+      "footprint": "toki", 
+      "layer": "bottom", 
+      "location": [
+        56, 
+        -35
+      ], 
       "scale": 1, 
       "show": true
     }

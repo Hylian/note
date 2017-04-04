@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "2mm", 
+          "letter-spacing": "0.3mm", 
+          "line-height": "2.4mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "stroke",
+          "type": "text", 
+          "value": "http://tokilabs.co\nEdward Shin"
+        }
+      ]
+    }
+  }
+}
