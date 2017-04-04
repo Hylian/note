@@ -1,0 +1,53 @@
+{
+  "pins":
+  {
+    "name":
+    {
+      "layout":
+      {
+        "pad": "note",
+        "location": [22, 0]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "hack", 
+          "font-size": "5mm", 
+          "letter-spacing": "0.3mm", 
+          "line-height": "0mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "TokiLabs"
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "note": {
+      "shapes": 
+      [
+        {
+          "font-family": "hack", 
+          "font-size": "5mm", 
+          "letter-spacing": "0.3mm", 
+          "line-height": "0mm", 
+          "style": "fill", 
+          "type": "text", 
+          "value": "note"
+        }
+      ]
+    }
+  }
+}

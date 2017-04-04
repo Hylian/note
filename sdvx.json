@@ -1339,8 +1339,8 @@
       ], 
       "show": true
     },
-    "sdvxstripe1": {
-      "footprint": "sdvx1", 
+    "sdvxmap1_vol1": {
+      "footprint": "sdvxmap1_vol1", 
       "layer": "top", 
       "location": [
         -69.5, 
@@ -1348,22 +1348,42 @@
       ], 
       "show": true
     },
-    "sdvxstripe2": {
-      "footprint": "sdvx2", 
+    "sdvxmap1_vol2": {
+      "footprint": "sdvxmap1_vol2", 
       "layer": "top", 
       "location": [
-        -69.5, 
-        -15.5
+        -68.37, 
+        -19.03
       ], 
       "show": true
     },
-    "sdvxstripe3": {
-      "footprint": "sdvx3", 
+    "sdvxmap1_bt": {
+      "footprint": "sdvxmap1_bt", 
+      "layer": "top", 
+      "location": [
+        -69.5, 
+        -15.4
+      ], 
+      "show": true
+    },
+    "sdvxmap1_fx": {
+      "footprint": "sdvxmap1_fx", 
       "layer": "top", 
       "location": [
         -69.5, 
         -18.5
       ], 
+      "show": true
+    },
+    "titlesolo": {
+      "footprint": "title",
+      "layer": "top",
+      "location": [
+        69.5,
+        -22
+      ],
+      "rotate": -90,
+      "scale": 1,
       "show": true
     }
   }, 
