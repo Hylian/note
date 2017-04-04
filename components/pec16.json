@@ -28,30 +28,12 @@
         "show-label": true
       }
     },
-  "SW-L":
-    {	
-      "layout": 
-      {
-        "pad": "pin", 
-        "location": [-2.5, 17.5],
-        "show-label": true
-      }
-    },
-  "SW-R":
-    {	
-      "layout": 
-      {
-        "pad": "pin", 
-        "location": [2.5, 17.5],
-        "show-label": true
-      }
-    },
   "stabilizer-L":
     {
       "layout":
         {
           "pad": "stabilizer",
-          "location": [-7.4, 10.5]
+          "location": [-8.85, 10.5]
         }
     },
   "stabilizer-R":
@@ -59,7 +41,7 @@
       "layout":
         {
           "pad": "stabilizer",
-          "location": [7.4, 10.5]
+          "location": [8.85, 10.5]
         }
     }
   },
