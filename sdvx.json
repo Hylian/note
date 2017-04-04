@@ -1,5 +1,19 @@
 {
   "components": {
+    "B1": {
+      "footprint": "pushbutton", 
+      "layer": "bottom", 
+      "location": [
+        48, 
+        35
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
     "BT-A": {
       "footprint": "obsc-24kk", 
       "layer": "bottom", 
@@ -61,8 +75,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [3.1,0]
+          "location": [
+            3.1, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -75,8 +92,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -89,8 +109,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.5]
+          "location": [
+            0, 
+            1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -103,8 +126,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -117,8 +143,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.5]
+          "location": [
+            0, 
+            1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -131,8 +160,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -145,8 +177,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.5]
+          "location": [
+            0, 
+            1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -159,8 +194,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -173,8 +211,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.5]
+          "location": [
+            0, 
+            1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -187,8 +228,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -201,8 +245,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.5]
+          "location": [
+            0, 
+            1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -215,8 +262,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [3.1, 0]
+          "location": [
+            3.1, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -230,8 +280,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.5]
+          "location": [
+            0, 
+            1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -245,8 +298,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -260,8 +316,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -275,8 +334,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -290,8 +352,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -304,8 +369,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0, -1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -319,8 +387,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -334,8 +405,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -348,8 +422,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -362,8 +439,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.4]
+          "location": [
+            0, 
+            1.4
+          ], 
+          "show": true
         }
       }
     }, 
@@ -377,8 +457,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -391,8 +474,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.5]
+          "location": [
+            0, 
+            -1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -405,20 +491,10 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.5]
-        }
-      }
-    }, 
-    "X1": {
-      "footprint": "crystal", 
-      "layer": "bottom", 
-      "location": [
-        43, 
-        24
-      ], 
-      "silkscreen": {
-        "refdef": {
+          "location": [
+            0, 
+            1.5
+          ], 
           "show": true
         }
       }
@@ -512,8 +588,11 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,5.5]
+          "location": [
+            0, 
+            5.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -527,6 +606,8 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
+          "rotate-with-component": false, 
           "show": true
         }
       }
@@ -540,6 +621,7 @@
       ], 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
           "show": true
         }
       }
@@ -554,6 +636,8 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
+          "rotate-with-component": false, 
           "show": true
         }
       }
@@ -567,6 +651,7 @@
       ], 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
           "show": true
         }
       }
@@ -581,6 +666,8 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
+          "rotate-with-component": false, 
           "show": true
         }
       }
@@ -594,6 +681,7 @@
       ], 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
           "show": true
         }
       }
@@ -608,6 +696,8 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
+          "rotate-with-component": false, 
           "show": true
         }
       }
@@ -621,6 +711,7 @@
       ], 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
           "show": true
         }
       }
@@ -635,6 +726,8 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
+          "rotate-with-component": false, 
           "show": true
         }
       }
@@ -648,6 +741,7 @@
       ], 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
           "show": true
         }
       }
@@ -662,6 +756,8 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
+          "font-size": "1.4mm", 
+          "rotate-with-component": false, 
           "show": true
         }
       }
@@ -675,20 +771,7 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true
-        }
-      }
-    }, 
-    "B1": {
-      "footprint": "pushbutton", 
-      "layer": "bottom", 
-      "location": [
-        48, 
-        35
-      ], 
-      "rotate": 90, 
-      "silkscreen": {
-        "refdef": {
+          "font-size": "1.4mm", 
           "show": true
         }
       }
@@ -703,8 +786,12 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.1]
+          "font-size": "1.4mm", 
+          "location": [
+            0, 
+            1.1
+          ], 
+          "show": true
         }
       }
     }, 
@@ -718,8 +805,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -733,8 +823,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -748,8 +841,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -763,8 +859,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.5]
+          "location": [
+            0, 
+            1.5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -778,8 +877,12 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,-1.2]
+          "font-size": "1.4mm", 
+          "location": [
+            0, 
+            -1.2
+          ], 
+          "show": true
         }
       }
     }, 
@@ -792,8 +895,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.3,0]
+          "location": [
+            -3.3, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -806,8 +912,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,1.4]
+          "location": [
+            0, 
+            1.4
+          ], 
+          "show": true
         }
       }
     }, 
@@ -821,8 +930,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -836,8 +948,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -851,8 +966,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -866,8 +984,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -881,8 +1002,11 @@
       "rotate": 90, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [-3.5,0]
+          "location": [
+            -3.5, 
+            0
+          ], 
+          "show": true
         }
       }
     }, 
@@ -931,8 +1055,11 @@
       "rotate": 180, 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0, -2]
+          "location": [
+            0, 
+            -2
+          ], 
+          "show": true
         }
       }
     }, 
@@ -945,8 +1072,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,5]
+          "location": [
+            0, 
+            5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -959,8 +1089,11 @@
       ], 
       "silkscreen": {
         "refdef": {
-          "show": true,
-          "location": [0,5]
+          "location": [
+            0, 
+            5
+          ], 
+          "show": true
         }
       }
     }, 
@@ -1146,6 +1279,19 @@
         }
       }
     }, 
+    "Via 22": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        15.476243, 
+        26.225751
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
     "Via 3": {
       "footprint": "via_nobuf", 
       "layer": "top", 
@@ -1236,6 +1382,19 @@
           "show": false
         }
       }
+    }, 
+    "X1": {
+      "footprint": "crystal", 
+      "layer": "bottom", 
+      "location": [
+        43, 
+        24
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
     }
   }, 
   "config": {
@@ -1299,6 +1458,78 @@
     "min-segment-length": 0.05, 
     "steps-per-segment": 100
   }, 
+  "layer-control": {
+    "assembly": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }
+  }, 
   "outline": {
     "shape": {
       "type": "path", 
@@ -1320,7 +1551,7 @@
         0
       ], 
       "show": true
-    },
+    }, 
     "rings-L": {
       "footprint": "rings", 
       "layer": "top", 
@@ -1329,7 +1560,7 @@
         26
       ], 
       "show": true
-    },
+    }, 
     "rings-R": {
       "footprint": "rings", 
       "layer": "top", 
@@ -1338,52 +1569,52 @@
         26
       ], 
       "show": true
-    },
+    }, 
+    "sdvxmap1_bt": {
+      "footprint": "sdvxmap1_bt", 
+      "layer": "top", 
+      "location": [
+        -73.56, 
+        -8.21
+      ], 
+      "show": true
+    }, 
+    "sdvxmap1_fx": {
+      "footprint": "sdvxmap1_fx", 
+      "layer": "top", 
+      "location": [
+        -67.6, 
+        -11.2
+      ], 
+      "show": true
+    }, 
     "sdvxmap1_vol1": {
       "footprint": "sdvxmap1_vol1", 
       "layer": "top", 
       "location": [
         -69.5, 
-        -31
+        -19
       ], 
       "show": true
-    },
+    }, 
     "sdvxmap1_vol2": {
       "footprint": "sdvxmap1_vol2", 
       "layer": "top", 
       "location": [
         -68.37, 
-        -19.03
+        -7.03
       ], 
       "show": true
-    },
-    "sdvxmap1_bt": {
-      "footprint": "sdvxmap1_bt", 
-      "layer": "top", 
-      "location": [
-        -69.5, 
-        -15.4
-      ], 
-      "show": true
-    },
-    "sdvxmap1_fx": {
-      "footprint": "sdvxmap1_fx", 
-      "layer": "top", 
-      "location": [
-        -69.5, 
-        -18.5
-      ], 
-      "show": true
-    },
+    }, 
     "titlesolo": {
-      "footprint": "title",
-      "layer": "top",
+      "footprint": "title", 
+      "layer": "top", 
       "location": [
-        69.5,
+        69.5, 
         -22
-      ],
-      "rotate": -90,
-      "scale": 1,
+      ], 
+      "rotate": -90, 
+      "scale": 1, 
       "show": true
     }
   }, 
