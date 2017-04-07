@@ -33,7 +33,7 @@
       "layout":
         {
           "pad": "stabilizer",
-          "location": [-8.85, 10.5]
+          "location": [-7.4, 10.5]
         }
     },
   "stabilizer-R":
@@ -41,7 +41,7 @@
       "layout":
         {
           "pad": "stabilizer",
-          "location": [8.85, 10.5]
+          "location": [7.4, 10.5]
         }
     }
   },
@@ -73,8 +73,8 @@
           "type": "rect",
           "layers": ["top", "bottom"],
           "style": "fill",
-          "width": 2.6,
-          "height": 2.7,
+          "width": 2.0,
+          "height": 2.1,
           "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
         }
       ]
