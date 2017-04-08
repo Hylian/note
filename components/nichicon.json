@@ -1,0 +1,83 @@
+
+{
+"pins":
+  {
+  "pos":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0, 3]
+      }
+    },
+  "neg":
+    {	
+      "layout": 
+      {
+        "pad": "pad", 
+        "location": [0, -3]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "diameter": 8.0,
+          "location": [0, 0]
+        },
+        {
+          "type": "rect",
+          "width": 6.17,
+          "height": 0.1,
+          "location": [0,-2.5]
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 8.3,
+          "height": 8.3
+        },
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "location": [0, -3],
+          "width": 1.1,
+          "height": 2.9
+        },
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "location": [0, 3],
+          "width": 1.1,
+          "height": 2.9
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pad":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top"],
+          "width": 2.0,
+          "height": 4.0,
+          "radii": {"tl": 0.25, "tr": 0.25, "bl": 0.25, "br": 0.25}
+        }
+      ]
+    }
+  }
+}

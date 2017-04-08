@@ -377,6 +377,25 @@
         }
       }
     }, 
+    "C26": {
+      "footprint": "nichicon", 
+      "layer": "bottom", 
+      "location": [
+        37.163955, 
+        12.791725
+      ], 
+      "rotate": 180,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            5.4, 
+            0
+          ], 
+          "rotate": -90,
+          "show": true
+        }
+      }
+    }, 
     "C3": {
       "footprint": "0805", 
       "layer": "bottom", 
@@ -1268,6 +1287,19 @@
       "location": [
         15.476243, 
         26.225751
+      ], 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "Via 23": {
+      "footprint": "via_nobuf", 
+      "layer": "top", 
+      "location": [
+        35.086885, 
+        11.805693
       ], 
       "silkscreen": {
         "refdef": {
