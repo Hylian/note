@@ -26,7 +26,7 @@
             0
           ], 
           "rotate": 0, 
-          "style": "stroke",
+          "style": "fill",
           "type": "text", 
           "value": "TokiLabs"
         }
@@ -43,7 +43,7 @@
           "font-size": "5mm", 
           "letter-spacing": "0.3mm", 
           "line-height": "0mm", 
-          "style": "stroke", 
+          "style": "fill", 
           "type": "text", 
           "value": "note"
         }

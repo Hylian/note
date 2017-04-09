@@ -15,7 +15,7 @@
             0
           ], 
           "rotate": 0, 
-          "style": "stroke",
+          "style": "fill",
           "type": "text", 
           "value": "http://tokilabs.co\nEdward Shin"
         }
