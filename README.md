@@ -11,6 +11,8 @@ built using:
 * Sanwa OBSC-24KK Arcade Button
 * Bourns PEC16-4020F Rotary Encoder
 
+[Demo Video](https://www.youtube.com/watch?v=6U-hFBQ2T74)
+
 ![pcb](Images/pcb-render.png)
 
 ![bottom](Images/bottom.jpg)
