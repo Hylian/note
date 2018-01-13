@@ -1,6 +1,6 @@
 # Enclosure
 
-![Enclosusre Render](../Images/enclosure-render.png)
+![Enclosure Render](../Images/enclosure-render.PNG)
 
 sdvx_acrylic.svg contains the acrylic laser cut designs for the Note. Each layer is labeled with its location in the stack and thickness. The enclosure uses eight slices of acrylic in total: four 6 mm slices and four 3mm slices.
 
