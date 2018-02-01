@@ -15,7 +15,7 @@
    width="160.0mm"
    id="svg16756"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="sdvx_acrylic.svg">
+   sodipodi:docname="sdvx_acrylic_ponoko.svg">
   <metadata
      id="metadata24052">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,9 +37,9 @@
      inkscape:cx="279.03368"
      inkscape:cy="106.46191"
      inkscape:window-width="2736"
-     inkscape:window-height="1824"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1719"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:current-layer="g8161">
     <inkscape:grid
        emspacing="5"
