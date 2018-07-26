@@ -38,7 +38,6 @@ include $(DMBS_LUFA_PATH)/lufa-gcc.mk
 DMBS_PATH      ?= $(LUFA_PATH)/Build/DMBS/DMBS
 include $(DMBS_PATH)/core.mk
 include $(DMBS_PATH)/cppcheck.mk
-include $(DMBS_PATH)/doxygen.mk
 include $(DMBS_PATH)/dfu.mk
 include $(DMBS_PATH)/gcc.mk
 include $(DMBS_PATH)/hid.mk
