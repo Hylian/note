@@ -2,7 +2,7 @@
 
 ## Build Instructions
 
-Download Atmel Studio and load the atsln file. Run "Build Solution" to compile.
+Update git submodules and run make. 
 
 ## Design
 
