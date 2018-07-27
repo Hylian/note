@@ -1,7 +1,36 @@
-#include "note.h"
+#include <avr/io.h>
+#include <avr/wdt.h>
+#include <avr/power.h>
+#include <avr/interrupt.h>
+#include <string.h>
+#include <stdio.h>
+#include <LUFA/Drivers/USB/USB.h>
+#include <LUFA/Platform/Platform.h>
+#include "descriptors.h"
 #include "encoder.h"
 #include "debounce.h"
 #include "led.h"
+
+/* Function Prototypes: */
+void SetupHardware(void);
+void SendSerial(void);
+
+void EVENT_USB_Device_Connect(void);
+void EVENT_USB_Device_Disconnect(void);
+void EVENT_USB_Device_ConfigurationChanged(void);
+void EVENT_USB_Device_ControlRequest(void);
+void EVENT_USB_Device_StartOfFrame(void);
+
+bool CALLBACK_HID_Device_CreateHIDReport(USB_ClassInfo_HID_Device_t* const HIDInterfaceInfo,
+                                          uint8_t* const ReportID,
+                                          const uint8_t ReportType,
+                                          void* ReportData,
+                                          uint16_t* const ReportSize);
+void CALLBACK_HID_Device_ProcessHIDReport(USB_ClassInfo_HID_Device_t* const HIDInterfaceInfo,
+                                          const uint8_t ReportID,
+                                          const uint8_t ReportType,
+                                          const void* ReportData,
+                                          const uint16_t ReportSize);
 
 /** LUFA CDC Class driver interface configuration and state information. This structure is
  *  passed to all CDC Class driver functions, so that multiple instances of the same class
@@ -85,6 +114,29 @@ USB_ClassInfo_HID_Device_t Mouse_HID_Interface =
       },
   };
 
+/** Configures the board hardware and chip peripherals for the demo's functionality. */
+void SetupHardware(void)
+{
+  /* Disable watchdog if enabled by bootloader/fuses */
+  MCUSR &= ~(1 << WDRF);
+  wdt_disable();
+
+  /* Disable clock division */
+  clock_prescale_set(clock_div_1);
+
+  /* Configure all button pins to use internal pullup */
+  PORTD |= (1<<7) | (1<<4) | (1<<2) | (1<<0) | (1<<6) | (1<<1);
+  PORTE |= (1<<2);
+  PORTB |= (1<<0) | (1<<4) | (1<<5) | (1<<7);
+
+  /* Subsystem Initialization */
+  EncoderInit();
+  DebounceInit();
+  LedInit();
+
+  USB_Init();
+}
+
 /** Main program entry point. This routine contains the overall program flow, including initial
  *  setup of all components and the main program loop.
  */
@@ -117,29 +169,6 @@ int main(void)
 
     USB_USBTask();
   }
-}
-
-/** Configures the board hardware and chip peripherals for the demo's functionality. */
-void SetupHardware(void)
-{
-  /* Disable watchdog if enabled by bootloader/fuses */
-  MCUSR &= ~(1 << WDRF);
-  wdt_disable();
-
-  /* Disable clock division */
-  clock_prescale_set(clock_div_1);
-
-  /* Configure all button pins to use internal pullup */
-  PORTD |= (1<<7) | (1<<4) | (1<<2) | (1<<0) | (1<<6) | (1<<1);
-  PORTE |= (1<<2);
-  PORTB |= (1<<0) | (1<<4) | (1<<5) | (1<<7);
-
-  /* Subsystem Initialization */
-  EncoderInit();
-  DebounceInit();
-  LedInit();
-
-  USB_Init();
 }
 
 /** Send debug information over serial */
