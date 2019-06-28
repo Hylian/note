@@ -185,8 +185,8 @@ void SendSerial(void)
   }
   */
 
-  sprintf(ReportString, "Debounce Stats: avg(%u) min(%u) max(%u) 4us counts\r\n", debounce_stats.avg, debounce_stats.min, debounce_stats.max);
-  fputs(ReportString, &USBSerialStream);
+  //sprintf(ReportString, "Debounce Stats: avg(%u) min(%u) max(%u) 4us counts\r\n", debounce_stats.avg, debounce_stats.min, debounce_stats.max);
+  //fputs(ReportString, &USBSerialStream);
 
   /* Alternatively, without the stream: */
   // CDC_Device_SendString(&VirtualSerial_CDC_Interface, ReportString);
@@ -275,8 +275,8 @@ bool CALLBACK_HID_Device_CreateHIDReport(USB_ClassInfo_HID_Device_t* const HIDIn
   } else {
     USB_MouseReport_Data_t* MouseReport = (USB_MouseReport_Data_t*)ReportData;
 
-    MouseReport->Y = 16*EncoderGetRightDelta();
-    MouseReport->X = 16*EncoderGetLeftDelta();
+    MouseReport->Y = -1*EncoderGetRightDelta();
+    MouseReport->X = 1*EncoderGetLeftDelta();
 
     EncoderResetLeftDelta();
     EncoderResetRightDelta();

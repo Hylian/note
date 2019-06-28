@@ -44,3 +44,7 @@ include $(DMBS_PATH)/hid.mk
 include $(DMBS_PATH)/avrdude.mk
 include $(DMBS_PATH)/atprogram.mk
 
+flash:
+	$(shell sudo dfu-programmer atmega32u4 erase)
+	$(shell sudo dfu-programmer atmega32u4 flash note.hex)
+	$(shell sudo dfu-programmer atmega32u4 launch)
